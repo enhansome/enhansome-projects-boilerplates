@@ -1,0 +1,1161 @@
+{
+  "items": [
+    {
+      "description": "Boilerplates and templates for Android",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android Architecture Blueprints",
+          "description": "Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:40:24Z",
+            "owner": "android",
+            "repo": "architecture-samples",
+            "stars": 45786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beginning Android Resources",
+          "description": "Android Guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-16T19:11:02Z",
+            "owner": "codepath",
+            "repo": "android_guides",
+            "stars": 28338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Music Player",
+          "description": "Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-01-09T15:17:00Z",
+            "owner": "android",
+            "repo": "uamp",
+            "stars": 13180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Annotations",
+          "description": "Fast Android Development. Easy maintainance.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-05-31T13:16:38Z",
+            "owner": "androidannotations",
+            "repo": "androidannotations",
+            "stars": 10980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Cookbook Examples",
+          "description": "Collected code examples from the O'Reilly Android Cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-02T22:56:47Z",
+            "owner": "IanDarwin",
+            "repo": "Android-Cookbook-Examples",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Basic Samples",
+          "description": "Mostly game oriented samples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-10-05T10:08:53Z",
+            "owner": "playgameservices",
+            "repo": "android-basic-samples",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Material Drawer Template",
+          "description": "An Android template with navigation drawer for material design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-12T18:09:30Z",
+            "owner": "kanytu",
+            "repo": "android-material-drawer-template",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidKickststarter",
+          "description": "Framework kickstarts development which help you focus on coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-18T03:17:08Z",
+            "owner": "takimafr",
+            "repo": "androidkickstartr",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-design-icons-adt-template",
+          "description": "Android Studio / Eclipse ADT template for material-design-icons resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-07-11T08:02:01Z",
+            "owner": "intrications",
+            "repo": "material-design-icons-adt-template",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Quickstart",
+          "description": "Quickstart application showing the Google Drive API for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-20T22:32:14Z",
+            "owner": "googlearchive",
+            "repo": "drive-android-quickstart",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Webview Sample App",
+          "description": "Webview Sample App",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2011-09-19T13:53:45Z",
+            "owner": "tscolari",
+            "repo": "android-webview-sample-app",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Bootstrap",
+          "description": "A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-03T20:14:44Z",
+            "owner": "AndroidBootstrap",
+            "repo": "android-bootstrap",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Android Development"
+    },
+    {
+      "description": "Boilerplates and templates for IOS",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iOS Boilerplate",
+          "description": "Boilerplate by Gimeno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2012-02-28T15:44:29Z",
+            "owner": "gimenete",
+            "repo": "iOS-boilerplate",
+            "stars": 2746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift 5 Module Template",
+          "description": "Boilerplate for reusable Swift 5 modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-09-28T18:17:27Z",
+            "owner": "fulldecent",
+            "repo": "swift6-module-template",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amaro",
+          "description": "Featureful iOS Boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-11-23T00:08:19Z",
+            "owner": "crushlovely",
+            "repo": "Amaro",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boilerplate-iOS",
+          "description": "Boilerplate by openaphid.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2013-01-16T07:12:26Z",
+            "owner": "openaphid",
+            "repo": "Boilerplate-iOS",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "IOS Development."
+    },
+    {
+      "description": "Boilerplates and templates for JavaScript",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mega Boilerplate",
+          "description": "Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-22T00:58:43Z",
+            "owner": "sahat",
+            "repo": "megaboilerplate",
+            "stars": 3802
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "NodeJS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hackathon Starter",
+              "description": "A boilerplate for Node.js web applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T13:29:57Z",
+                "owner": "sahat",
+                "repo": "hackathon-starter",
+                "stars": 35244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node-Express-Mongoose Boilerplate",
+              "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-07-08T10:46:16Z",
+                "owner": "hagopj13",
+                "repo": "node-express-boilerplate",
+                "stars": 7661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue-Express-Mongo Boilerplate",
+              "description": "Full stack JS web app boilerplate with Express, Mongo and VueJS)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2021-05-28T03:53:23Z",
+                "owner": "icebob",
+                "repo": "vue-express-mongo-boilerplate",
+                "stars": 2826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Express Boilerplate",
+              "description": "Boilerplate generator for Express.js Projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-03-02T12:15:52Z",
+                "owner": "expressjs",
+                "repo": "generator",
+                "stars": 1852
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node Module boilerplate",
+              "description": "Boilerplate to kickstart creating a node module",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-08-24T11:39:49Z",
+                "owner": "sindresorhus",
+                "repo": "node-module-boilerplate",
+                "stars": 744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yeoman Node Generator",
+              "description": "Yeomans node generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-11-01T15:26:55Z",
+                "owner": "yeoman",
+                "repo": "generator-node",
+                "stars": 579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node/Backbone Web App Boilerplate",
+              "description": "Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2013-03-17T11:48:50Z",
+                "owner": "rudolf",
+                "repo": "webapp-boilerplate",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Handlebars-Express Boilerplate",
+              "description": "JS web app boilerplate with Express and the handlebars view engine setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-05T11:47:46Z",
+                "owner": "MohamedMoustafa-UoG",
+                "repo": "NodeExpressHbsScaffold",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AngularJS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yeoman Angular Generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-06-08T15:28:19Z",
+                "owner": "yeoman",
+                "repo": "generator-angular",
+                "stars": 5671
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ng-boilerplate",
+              "description": "An opinionated kickstarter for AngularJS projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-07-02T06:59:46Z",
+                "owner": "ngbp",
+                "repo": "ngbp",
+                "stars": 3887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angular Laravel CouchDB",
+              "description": "Angular Laravel CouchDB Boilerplate",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2014-12-21T08:00:29Z",
+                "owner": "melvin0008",
+                "repo": "laravel-angular",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ReactJS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React JS Hot loader Boilerplates",
+              "description": "React hot loader starter kits",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-02-10T02:42:07Z",
+                "owner": "gaearon",
+                "repo": "react-hot-loader",
+                "stars": 12169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Redux Universal Hot Example",
+              "description": "A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-08-02T08:38:52Z",
+                "owner": "erikras",
+                "repo": "react-redux-universal-hot-example",
+                "stars": 12089
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Transform Boilerplate",
+              "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2020-08-21T15:47:58Z",
+                "owner": "gaearon",
+                "repo": "react-transform-boilerplate",
+                "stars": 3334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Isomorphic Starterkit",
+              "description": "Isomorphic starterkit with server-side React rendering having many features",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-11-03T11:44:42Z",
+                "owner": "RickWong",
+                "repo": "react-isomorphic-starterkit",
+                "stars": 2302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Redux minimal",
+              "description": "A minimal React-Redux boilerplate with all the best practices",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2020-03-22T05:13:09Z",
+                "owner": "flexdinesh",
+                "repo": "react-redux-boilerplate",
+                "stars": 775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Boilerplate",
+              "description": "Boilerplate for creating a React npm package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-09-22T12:13:48Z",
+                "owner": "petehunt",
+                "repo": "react-boilerplate",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Library Boilerplate",
+              "description": "An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-02-28T20:39:47Z",
+                "owner": "gaearon",
+                "repo": "library-boilerplate",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flask React Boilerplate",
+              "description": "Flask and react Boilerplate",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2016-12-26T18:54:42Z",
+                "owner": "alexkuz",
+                "repo": "flask-react-boilerplate",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coffee React Quickstart",
+              "description": "Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CoffeeScript",
+                "last_commit": "2016-03-27T17:12:19Z",
+                "owner": "KyleAMathews",
+                "repo": "coffee-react-quickstart",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React NPM Component Starter",
+              "description": "A minimal boilerplate for building a React component for NPM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-01-22T20:55:20Z",
+                "owner": "markusenglund",
+                "repo": "react-npm-component-starter",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boilerplate Webpack React",
+              "description": "Boilerplate project for Reactjs with webpack, gulp and stylus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-01-16T09:38:43Z",
+                "owner": "tcoopman",
+                "repo": "boilerplate-webpack-react",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "post3ree-boilerplate",
+              "description": "Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2020-07-15T10:04:58Z",
+                "owner": "crftd",
+                "repo": "post3ree-boilerplate",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Typescript npm boilerplate",
+              "description": "Powerful react typescript npm component boilerplate built with rollup.js, storybook, jest unit test, tree-shaking and airbnb eslint rules",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2021-10-05T09:16:44Z",
+                "owner": "Sivakumar00",
+                "repo": "react-typescript-npm-boilerplate",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Boilerplate",
+              "description": "React boilerplate with React Router and webpack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HyperApp",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hyperapp-boilerplate",
+              "description": "Boilerplate showing how to create a production-ready Hyperapp application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-04T01:57:49Z",
+                "owner": "tzellman",
+                "repo": "hyperapp-boilerplate",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Backbone",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yeoman Backbone Generator",
+              "description": "Yeoman generator for Backbone.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-02-13T17:35:09Z",
+                "owner": "yeoman",
+                "repo": "generator-backbone",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Backbone Boilerplates",
+              "description": "Backbone Boilerplates by Addy Osmani.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2013-04-02T22:13:08Z",
+                "owner": "addyosmani",
+                "repo": "backbone-boilerplates",
+                "stars": 485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "benm",
+              "description": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-02T21:59:41Z",
+                "owner": "shorttompkins",
+                "repo": "benm",
+                "stars": 168
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Jquery",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Generator Jquery Boilerplate",
+              "description": "Yeoman Generator for jQuery Boilerplate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-05-05T14:44:04Z",
+                "owner": "jquery-boilerplate",
+                "repo": "generator-jquery-boilerplate",
+                "stars": 149
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Polymer",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polymer Starter Kit",
+              "description": "A starting point for Polymer 1.0 apps.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2019-03-28T09:49:35Z",
+                "owner": "Polymer",
+                "repo": "polymer-starter-kit",
+                "stars": 2430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yeoman Polymer Generator",
+              "description": "Yeoman's polymer Generator",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-02-13T17:34:30Z",
+                "owner": "yeoman",
+                "repo": "generator-polymer",
+                "stars": 913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polymer Seed Element",
+              "description": "An element providing a starting point for your own reusable Polymer elements.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2017-01-25T21:55:54Z",
+                "owner": "googlearchive",
+                "repo": "seed-element",
+                "stars": 272
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Electron",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Electron React Boilerplate",
+              "description": "A Foundation for Scalable Electron Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-04-29T22:35:26Z",
+                "owner": "electron-react-boilerplate",
+                "repo": "electron-react-boilerplate",
+                "stars": 24249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Electron Boilerplate",
+              "description": "Boilerplate for electron-node",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-08-17T23:56:39Z",
+                "owner": "sindresorhus",
+                "repo": "electron-boilerplate",
+                "stars": 1643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhiteStormJS - React/Redux - three.js - TypeScript boilerplate",
+              "description": "A starter kit for crafting 3D applications using modern technologies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-08-28T17:39:46Z",
+                "owner": "WhitestormJS",
+                "repo": "whitestorm-typescript-boilerplate",
+                "stars": 288
+              }
+            }
+          ]
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "Boilerplates and templates for Python",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CookieCutter",
+          "description": "List of various python templates by Audrey.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T17:46:44Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter",
+            "stars": 25055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fbone",
+          "description": "Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T16:02:20Z",
+            "owner": "imwilsonxu",
+            "repo": "fbone",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django Hackathon Starter",
+          "description": "A boilerplate for Django web applications, providing various social logins and several popular API examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-05T08:19:30Z",
+            "owner": "DrkSephy",
+            "repo": "django-hackathon-starter",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask Foundation",
+          "description": "App built with best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T22:49:21Z",
+            "owner": "JackStouffer",
+            "repo": "Flask-Foundation",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask Appengine Template",
+          "description": "Flask App engine Template",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-24T20:16:02Z",
+            "owner": "kamalgill",
+            "repo": "flask-appengine-template",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleAppEngine Webapp2 Boilerplate",
+          "description": "A Complete boilerplate for Python Webapp2 on Google App Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-20T15:00:25Z",
+            "owner": "coto",
+            "repo": "gae-boilerplate",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrapy",
+          "description": "A bootstrap Python application, so that you can focus on writing code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-09-16T09:50:02Z",
+            "owner": "kirang89",
+            "repo": "bootstrapy",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Bootstrap",
+          "description": "A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T08:31:38Z",
+            "owner": "esbullington",
+            "repo": "flask-bootstrap",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeautyNet",
+          "description": "A research project template for PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-07T10:46:26Z",
+            "owner": "cmsflash",
+            "repo": "beauty-net",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django Starter Template",
+          "description": "An easy to use project template for Django that follows best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:07:45Z",
+            "owner": "fasouto",
+            "repo": "django-starter-template",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask Boilerplate",
+          "description": "A very simple flask boilerplate with folder structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-01-17T11:53:03Z",
+            "owner": "melvin0008",
+            "repo": "FlaskBoilerplate",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CherryPy + Mako + Formish + OOOP boilerplate",
+          "description": "Targets publishing of OpenERP content to the web.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2013-08-15T17:30:28Z",
+            "owner": "kdeldycke",
+            "repo": "cherrypy_mako_formish_ooop_boilerplate",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "Boilerplates and templates for Ruby",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AngularJS Rails Templates",
+          "description": "Rails and Angular Tempate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-23T23:46:51Z",
+            "owner": "pitr",
+            "repo": "angular-rails-templates",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rails Bootstrap",
+          "description": "Starter App for Rails and Bootstrap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-05-17T13:24:00Z",
+            "owner": "RailsApps",
+            "repo": "rails-bootstrap",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngularJS Sinatra Bootstrap",
+          "description": "Angular Sinatra Bootstrap template.",
+          "children": []
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "Boilerplates and templates for Websites",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Starter Kit",
+          "description": "Web starter kit by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-04-22T23:42:34Z",
+            "owner": "google",
+            "repo": "web-starter-kit",
+            "stars": 18280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor boilerplate",
+          "description": "Boilerplate for meteor framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Handlebars",
+            "last_commit": "2016-04-14T05:11:34Z",
+            "owner": "Differential",
+            "repo": "meteor-boilerplate",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jekyll Starter Kit",
+          "description": "Jekyll Progressive Web App generator boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:30:49Z",
+            "owner": "nirgn975",
+            "repo": "generator-jekyll-starter-kit",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML Website Template",
+          "description": "Starting point for collaboratively-edited HTML websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T18:06:17Z",
+            "owner": "fulldecent",
+            "repo": "github-pages-template",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Websites"
+    },
+    {
+      "description": "Templating Systems for Different IDE's",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yasnippet",
+          "description": "A template system for Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-06-04T20:22:16Z",
+            "owner": "joaotavora",
+            "repo": "yasnippet",
+            "stars": 2956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Template",
+          "description": "Simple Vim Templates plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-14T18:40:54Z",
+            "owner": "aperezdc",
+            "repo": "vim-template",
+            "stars": 380
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "Boilerplates and template files",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pollinate",
+          "description": "Template your base files and generate them from GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-14T22:20:18Z",
+            "owner": "howardroark",
+            "repo": "pollinate",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Template Guidelines",
+          "description": "Collection of guidelines and boilerplate files for writing maintanable GitHub projects.",
+          "children": []
+        }
+      ],
+      "title": "GitHub"
+    },
+    {
+      "description": "To the extent possible under law, Melvin Philips has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:47.283Z",
+    "original_repository": "melvin0008/awesome-projects-boilerplates",
+    "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
+    "enhanced_repository": "enhansome/enhansome-projects-boilerplates",
+    "enhanced_repository_description": null,
+    "title": "Awesome boilerplates with stars"
+  }
+}
