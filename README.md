@@ -23,8 +23,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,785 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-12 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
-* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,338 | 🐛 162 | 📅 2026-01-16 Android Guide.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,787 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-12 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
+* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,339 | 🐛 162 | 📅 2026-01-16 Android Guide.
 * [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) ⚠️ Archived Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
 * [Android Annotations](https://github.com/excilys/androidannotations) ⚠️ Archived Fast Android Development. Easy maintainance.
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) ⭐ 1,022 | 🐛 3 | 🌐 Java | 📅 2026-07-02 Collected code examples from the O'Reilly Android Cookbook.
@@ -54,8 +54,8 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 
 * [NodeJS](#node-js)
-  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,249 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-14 A boilerplate for Node.js web applications.
-  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,663 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
+  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,248 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-14 A boilerplate for Node.js web applications.
+  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,665 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
   * [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) ⚠️ Archived - Full stack JS web app boilerplate with Express, Mongo and VueJS)
   * [Express Boilerplate](https://github.com/expressjs/generator) ⭐ 1,853 | 🐛 77 | 🌐 JavaScript | 📅 2026-03-02 Boilerplate generator for Express.js Projects
   * [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) ⭐ 744 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-24 Boilerplate to kickstart creating a node module
@@ -66,7 +66,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 * [AngularJS](#angular-js)
   * [Yeoman Angular Generator](https://github.com/yeoman/generator-angular) ⚠️ Archived
-  * [ng-boilerplate](https://github.com/ngbp/ngbp) ⭐ 3,886 | 🐛 158 | 🌐 JavaScript | 📅 2019-07-02 An opinionated kickstarter for AngularJS projects.
+  * [ng-boilerplate](https://github.com/ngbp/ngbp) ⭐ 3,885 | 🐛 158 | 🌐 JavaScript | 📅 2019-07-02 An opinionated kickstarter for AngularJS projects.
   * [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2014-12-21 Angular Laravel CouchDB Boilerplate
 
 * [ReactJS](#react-js)
@@ -102,7 +102,7 @@ Curated list of boilerplates and templates to enhance productivity.
   * [Polymer Seed Element](https://github.com/PolymerElements/seed-element) ⚠️ Archived An element providing a starting point for your own reusable Polymer elements.
 
 * [Electron](#electron)
-  * [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) ⭐ 24,251 | 🐛 192 | 🌐 TypeScript | 📅 2026-04-29 A Foundation for Scalable Electron Apps
+  * [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) ⭐ 24,249 | 🐛 192 | 🌐 TypeScript | 📅 2026-04-29 A Foundation for Scalable Electron Apps
   * [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) ⚠️ Archived Boilerplate for electron-node
   * [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) ⭐ 288 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-28 A starter kit for crafting 3D applications using modern technologies
 
@@ -118,7 +118,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Python*
 
-* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,054 | 🐛 309 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
+* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,057 | 🐛 310 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
 * [Fbone](https://github.com/imwilsonxu/fbone) ⭐ 1,702 | 🐛 24 | 🌐 Python | 📅 2022-05-17 Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,615 | 🐛 20 | 🌐 Python | 📅 2020-03-05 A boilerplate for Django web applications, providing various social logins and several popular API examples.
 * [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) ⭐ 1,277 | 🐛 3 | 🌐 Python | 📅 2023-05-01 App built with best practices.
@@ -208,4 +208,4 @@ To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
