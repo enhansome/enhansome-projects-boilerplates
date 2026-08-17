@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T23:40:24Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45787
+            "stars": 45788
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28339
+            "stars": 28348
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
             "repo": "uamp",
-            "stars": 13179
+            "stars": 13176
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10980
+            "stars": 10979
           }
         },
         {
@@ -451,7 +451,7 @@
                 "last_commit": "2024-08-02T08:38:52Z",
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12089
+                "stars": 12075
               }
             },
             {
@@ -786,7 +786,7 @@
                 "last_commit": "2022-08-17T23:56:39Z",
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
-                "stars": 1643
+                "stars": 1642
               }
             },
             {
@@ -822,7 +822,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25057
+            "stars": 25058
           }
         },
         {
@@ -1151,7 +1151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:13:33.092Z",
+    "last_updated": "2026-08-17T03:13:29.016Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
     "enhanced_repository": "enhansome/enhansome-projects-boilerplates",
