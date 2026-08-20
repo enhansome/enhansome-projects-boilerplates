@@ -15,7 +15,7 @@
             "last_commit": "2026-08-12T23:40:24Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45795
+            "stars": 45796
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28350
+            "stars": 28351
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10978
+            "stars": 10979
           }
         },
         {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-18T13:29:30Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35246
+                "stars": 35244
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2024-07-08T10:46:16Z",
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7666
+                "stars": 7667
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2019-07-02T06:59:46Z",
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3884
+                "stars": 3883
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24249
+                "stars": 24248
               }
             },
             {
@@ -1091,7 +1091,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18278
+            "stars": 18276
           }
         },
         {
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:31.381Z",
+    "last_updated": "2026-08-20T03:10:49.125Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
