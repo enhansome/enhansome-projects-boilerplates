@@ -30,7 +30,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28351
+            "stars": 28349
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10979
+            "stars": 10978
           }
         },
         {
@@ -284,7 +284,7 @@
                 "archived": false,
                 "id": 14370955,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T13:29:30Z",
+                "last_commit": "2026-08-20T13:29:25Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
                 "stars": 35244
@@ -302,7 +302,7 @@
                 "last_commit": "2024-07-08T10:46:16Z",
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667
+                "stars": 7668
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2019-07-02T06:59:46Z",
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3883
+                "stars": 3880
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2023-02-10T02:42:07Z",
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12168
+                "stars": 12167
               }
             },
             {
@@ -869,7 +869,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25058
+            "stars": 25060
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2016-04-14T05:11:34Z",
             "owner": "Differential",
             "repo": "meteor-boilerplate",
-            "stars": 870
+            "stars": 868
           }
         },
         {
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:10:49.125Z",
+    "last_updated": "2026-08-21T03:16:42.185Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
