@@ -12,10 +12,10 @@
             "archived": false,
             "id": 51148780,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T23:40:24Z",
+            "last_commit": "2026-08-22T12:00:53Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45798
+            "stars": 45794
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28351
+            "stars": 28352
           }
         },
         {
@@ -414,7 +414,7 @@
                 "last_commit": "2017-06-08T15:28:19Z",
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5669
+                "stars": 5668
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2023-02-10T02:42:07Z",
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12167
+                "stars": 12166
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24249
+                "stars": 24251
               }
             },
             {
@@ -869,7 +869,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25059
+            "stars": 25062
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18276
+            "stars": 18275
           }
         },
         {
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:08:16.357Z",
+    "last_updated": "2026-08-23T03:16:14.721Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
