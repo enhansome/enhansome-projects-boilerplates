@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T12:00:53Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45794
+            "stars": 45799
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
             "repo": "uamp",
-            "stars": 13176
+            "stars": 13175
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10978
+            "stars": 10977
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2021-10-05T10:08:53Z",
             "owner": "playgameservices",
             "repo": "android-basic-samples",
-            "stars": 978
+            "stars": 979
           }
         },
         {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-21T13:30:14Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35242
+                "stars": 35245
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2024-07-08T10:46:16Z",
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7665
+                "stars": 7666
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24251
+                "stars": 24252
               }
             },
             {
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:16:14.721Z",
+    "last_updated": "2026-08-24T03:17:23.835Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
