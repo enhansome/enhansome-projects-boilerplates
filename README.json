@@ -12,10 +12,10 @@
             "archived": false,
             "id": 51148780,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T07:34:23Z",
+            "last_commit": "2026-08-24T19:34:10Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45801
+            "stars": 45802
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28352
+            "stars": 28354
           }
         },
         {
@@ -496,7 +496,7 @@
                 "last_commit": "2020-08-21T15:47:58Z",
                 "owner": "gaearon",
                 "repo": "react-transform-boilerplate",
-                "stars": 3334
+                "stars": 3333
               }
             },
             {
@@ -911,7 +911,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25064
+            "stars": 25065
           }
         },
         {
@@ -1133,7 +1133,7 @@
             "last_commit": "2026-08-20T13:25:08Z",
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12004
+            "stars": 12003
           }
         }
       ],
@@ -1238,7 +1238,7 @@
             "archived": false,
             "id": 79372738,
             "language": "JavaScript",
-            "last_commit": "2026-07-30T18:06:17Z",
+            "last_commit": "2026-08-24T21:14:00Z",
             "owner": "fulldecent",
             "repo": "github-pages-template",
             "stars": 41
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:42.113Z",
+    "last_updated": "2026-08-25T03:13:17.456Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",

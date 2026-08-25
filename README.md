@@ -23,8 +23,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,801 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-24 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
-* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,352 | 🐛 162 | 📅 2026-01-16 Android Guide.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,802 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-24 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
+* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,354 | 🐛 162 | 📅 2026-01-16 Android Guide.
 * [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) ⚠️ Archived Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
 * [Android Annotations](https://github.com/excilys/androidannotations) ⚠️ Archived Fast Android Development. Easy maintainance.
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) ⭐ 1,022 | 🐛 3 | 🌐 Java | 📅 2026-07-02 Collected code examples from the O'Reilly Android Cookbook.
@@ -118,7 +118,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Python*
 
-* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,064 | 🐛 313 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
+* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,065 | 🐛 313 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
 * [Fbone](https://github.com/imwilsonxu/fbone) ⭐ 1,702 | 🐛 24 | 🌐 Python | 📅 2022-05-17 Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,614 | 🐛 20 | 🌐 Python | 📅 2020-03-05 A boilerplate for Django web applications, providing various social logins and several popular API examples.
 * [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) ⭐ 1,277 | 🐛 3 | 🌐 Python | 📅 2023-05-01 App built with best practices.
@@ -152,7 +152,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,004 | 🐛 62 | 🌐 C# | 📅 2026-08-20 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,003 | 🐛 62 | 🌐 C# | 📅 2026-08-20 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 ## Go
 
@@ -173,7 +173,7 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Web Starter Kit](https://github.com/google/web-starter-kit) ⚠️ Archived Web starter kit by Google.
 * [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) ⭐ 868 | 🐛 25 | 🌐 Handlebars | 📅 2016-04-14 Boilerplate for meteor framework.
 * [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) ⭐ 145 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-04 Jekyll Progressive Web App generator boilerplate.
-* [HTML Website Template](https://github.com/fulldecent/html-website-template) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-30 Starting point for collaboratively-edited HTML websites
+* [HTML Website Template](https://github.com/fulldecent/html-website-template) ⭐ 41 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-24 Starting point for collaboratively-edited HTML websites
 * [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
 * [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 * [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
@@ -208,4 +208,4 @@ To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
