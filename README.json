@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T19:34:10Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45802
+            "stars": 45800
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28354
+            "stars": 28351
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
             "repo": "uamp",
-            "stars": 13175
+            "stars": 13174
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10977
+            "stars": 10976
           }
         },
         {
@@ -511,7 +511,7 @@
                 "last_commit": "2017-11-03T11:44:42Z",
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2302
+                "stars": 2303
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252
+                "stars": 24253
               }
             },
             {
@@ -911,7 +911,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25065
+            "stars": 25068
           }
         },
         {
@@ -971,7 +971,7 @@
             "last_commit": "2019-12-24T20:16:02Z",
             "owner": "kamalgill",
             "repo": "flask-appengine-template",
-            "stars": 1069
+            "stars": 1068
           }
         },
         {
@@ -1196,7 +1196,7 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18274
+            "stars": 18273
           }
         },
         {
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:37.601Z",
+    "last_updated": "2026-08-26T03:19:13.941Z",
     "original_repository": "melvin0008/awesome-projects-boilerplates",
     "original_repository_id": 29382033,
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
