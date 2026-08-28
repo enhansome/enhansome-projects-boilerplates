@@ -12,11 +12,12 @@
             "archived": false,
             "id": 51148780,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T23:56:35Z",
+            "last_commit": "2026-08-27T22:55:16Z",
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45803
-          }
+            "stars": 45804
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-01-16T19:11:02Z",
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28350
-          }
+            "stars": 28349
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "android",
             "repo": "uamp",
             "stars": 13174
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "androidannotations",
             "repo": "androidannotations",
             "stars": 10976
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "IanDarwin",
             "repo": "Android-Cookbook-Examples",
             "stars": 1022
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "playgameservices",
             "repo": "android-basic-samples",
             "stars": 979
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "kanytu",
             "repo": "android-material-drawer-template",
             "stars": 665
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "takimafr",
             "repo": "androidkickstartr",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "intrications",
             "repo": "material-design-icons-adt-template",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "googlearchive",
             "repo": "drive-android-quickstart",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "tscolari",
             "repo": "android-webview-sample-app",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "AndroidBootstrap",
             "repo": "android-bootstrap",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Android Development"
@@ -202,7 +214,8 @@
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
             "stars": 2746
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "fulldecent",
             "repo": "swift6-module-template",
             "stars": 487
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "crushlovely",
             "repo": "Amaro",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "openaphid",
             "repo": "Boilerplate-iOS",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "IOS Development."
@@ -268,7 +284,8 @@
             "owner": "sahat",
             "repo": "megaboilerplate",
             "stars": 3801
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "group",
@@ -284,11 +301,12 @@
                 "archived": false,
                 "id": 14370955,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:32:26Z",
+                "last_commit": "2026-08-28T01:06:25Z",
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35249
-              }
+                "stars": 35251
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -302,8 +320,9 @@
                 "last_commit": "2024-07-08T10:46:16Z",
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7668
-              }
+                "stars": 7669
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -318,7 +337,8 @@
                 "owner": "icebob",
                 "repo": "vue-express-mongo-boilerplate",
                 "stars": 2823
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -333,7 +353,8 @@
                 "owner": "expressjs",
                 "repo": "generator",
                 "stars": 1854
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -347,8 +368,9 @@
                 "last_commit": "2024-08-24T11:39:49Z",
                 "owner": "sindresorhus",
                 "repo": "node-module-boilerplate",
-                "stars": 744
-              }
+                "stars": 745
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -363,7 +385,8 @@
                 "owner": "yeoman",
                 "repo": "generator-node",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -378,7 +401,8 @@
                 "owner": "rudolf",
                 "repo": "webapp-boilerplate",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -393,7 +417,8 @@
                 "owner": "MohamedMoustafa-UoG",
                 "repo": "NodeExpressHbsScaffold",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -415,7 +440,8 @@
                 "owner": "yeoman",
                 "repo": "generator-angular",
                 "stars": 5668
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -430,7 +456,8 @@
                 "owner": "ngbp",
                 "repo": "ngbp",
                 "stars": 3880
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -445,7 +472,8 @@
                 "owner": "melvin0008",
                 "repo": "laravel-angular",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -467,7 +495,8 @@
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
                 "stars": 12165
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -482,7 +511,8 @@
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
                 "stars": 12075
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -497,7 +527,8 @@
                 "owner": "gaearon",
                 "repo": "react-transform-boilerplate",
                 "stars": 3333
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -512,7 +543,8 @@
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
                 "stars": 2303
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -527,7 +559,8 @@
                 "owner": "flexdinesh",
                 "repo": "react-redux-boilerplate",
                 "stars": 775
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -542,7 +575,8 @@
                 "owner": "petehunt",
                 "repo": "react-boilerplate",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -557,7 +591,8 @@
                 "owner": "gaearon",
                 "repo": "library-boilerplate",
                 "stars": 383
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -571,8 +606,9 @@
                 "last_commit": "2016-12-26T18:54:42Z",
                 "owner": "alexkuz",
                 "repo": "flask-react-boilerplate",
-                "stars": 363
-              }
+                "stars": 362
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -587,7 +623,8 @@
                 "owner": "KyleAMathews",
                 "repo": "coffee-react-quickstart",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -602,7 +639,8 @@
                 "owner": "markusenglund",
                 "repo": "react-npm-component-starter",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -617,7 +655,8 @@
                 "owner": "tcoopman",
                 "repo": "boilerplate-webpack-react",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -632,7 +671,8 @@
                 "owner": "crftd",
                 "repo": "post3ree-boilerplate",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -647,7 +687,8 @@
                 "owner": "Sivakumar00",
                 "repo": "react-typescript-npm-boilerplate",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -669,7 +710,8 @@
                 "owner": "tzellman",
                 "repo": "hyperapp-boilerplate",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -691,7 +733,8 @@
                 "owner": "yeoman",
                 "repo": "generator-backbone",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -706,7 +749,8 @@
                 "owner": "addyosmani",
                 "repo": "backbone-boilerplates",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -721,7 +765,8 @@
                 "owner": "shorttompkins",
                 "repo": "benm",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -743,7 +788,8 @@
                 "owner": "jquery-boilerplate",
                 "repo": "generator-jquery-boilerplate",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -765,7 +811,8 @@
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
                 "stars": 2430
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -780,7 +827,8 @@
                 "owner": "yeoman",
                 "repo": "generator-polymer",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -795,7 +843,8 @@
                 "owner": "googlearchive",
                 "repo": "seed-element",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         },
@@ -816,8 +865,9 @@
                 "last_commit": "2026-04-29T22:35:26Z",
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24254
-              }
+                "stars": 24255
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -832,7 +882,8 @@
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
                 "stars": 1642
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             },
             {
               "node_type": "item",
@@ -847,7 +898,8 @@
                 "owner": "WhitestormJS",
                 "repo": "whitestorm-typescript-boilerplate",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T14:21:55.906Z"
             }
           ]
         }
@@ -870,7 +922,8 @@
             "owner": "MaksimAbramchuk",
             "repo": "ionic-gulp-es6-starter-kit",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Hybrid Mobile App Frameworks"
@@ -891,7 +944,8 @@
             "owner": "ferbs",
             "repo": "webstack-micro",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Microservices"
@@ -912,7 +966,8 @@
             "owner": "cookiecutter",
             "repo": "cookiecutter",
             "stars": 25066
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -927,7 +982,8 @@
             "owner": "imwilsonxu",
             "repo": "fbone",
             "stars": 1702
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -942,7 +998,8 @@
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
             "stars": 1614
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1014,8 @@
             "owner": "JackStouffer",
             "repo": "Flask-Foundation",
             "stars": 1277
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -972,7 +1030,8 @@
             "owner": "kamalgill",
             "repo": "flask-appengine-template",
             "stars": 1068
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -987,7 +1046,8 @@
             "owner": "coto",
             "repo": "gae-boilerplate",
             "stars": 682
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1002,7 +1062,8 @@
             "owner": "kirang89",
             "repo": "bootstrapy",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1017,7 +1078,8 @@
             "owner": "esbullington",
             "repo": "flask-bootstrap",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1032,7 +1094,8 @@
             "owner": "cmsflash",
             "repo": "beauty-net",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1047,7 +1110,8 @@
             "owner": "fasouto",
             "repo": "django-starter-template",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1062,7 +1126,8 @@
             "owner": "melvin0008",
             "repo": "FlaskBoilerplate",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1077,7 +1142,8 @@
             "owner": "kdeldycke",
             "repo": "cherrypy_mako_formish_ooop_boilerplate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Python"
@@ -1098,7 +1164,8 @@
             "owner": "pitr",
             "repo": "angular-rails-templates",
             "stars": 561
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1180,8 @@
             "owner": "RailsApps",
             "repo": "rails-bootstrap",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Ruby"
@@ -1133,8 +1201,9 @@
             "last_commit": "2026-08-20T13:25:08Z",
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12003
-          }
+            "stars": 12005
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": ".NET"
@@ -1155,7 +1224,8 @@
             "owner": "sharath",
             "repo": "go-react-boilerplate",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Go"
@@ -1176,7 +1246,8 @@
             "owner": "fstanis",
             "repo": "webextensions-webpack-boilerplate",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Browser Webextensions"
@@ -1196,8 +1267,9 @@
             "last_commit": "2024-04-22T23:42:34Z",
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18273
-          }
+            "stars": 18274
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1212,7 +1284,8 @@
             "owner": "Differential",
             "repo": "meteor-boilerplate",
             "stars": 868
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1227,7 +1300,8 @@
             "owner": "nirgn975",
             "repo": "generator-jekyll-starter-kit",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1242,7 +1316,8 @@
             "owner": "fulldecent",
             "repo": "github-pages-template",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Websites"
@@ -1263,7 +1338,8 @@
             "owner": "joaotavora",
             "repo": "yasnippet",
             "stars": 2956
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         },
         {
           "node_type": "item",
@@ -1278,7 +1354,8 @@
             "owner": "aperezdc",
             "repo": "vim-template",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "IDE"
@@ -1299,7 +1376,8 @@
             "owner": "howardroark",
             "repo": "pollinate",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "GitHub"
@@ -1320,14 +1398,15 @@
             "repo": "awesome-projects-boilerplates",
             "stars": 1406
           },
-          "title": "Contributing"
+          "title": "Contributing",
+          "first_seen": "2026-08-28T14:21:55.906Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:48:15.796Z",
+    "last_updated": "2026-08-28T14:21:55.906Z",
     "original_repository_info": {
       "archived": false,
       "id": 29382033,
