@@ -23,7 +23,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,804 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-27 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,807 | 🐛 223 | 🌐 Kotlin | 📅 2026-08-27 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
 * [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,349 | 🐛 162 | 📅 2026-01-16 Android Guide.
 * [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) ⚠️ Archived Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
 * [Android Annotations](https://github.com/excilys/androidannotations) ⚠️ Archived Fast Android Development. Easy maintainance.
@@ -49,15 +49,15 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for JavaScript*
 
-* [Mega Boilerplate](https://github.com/sahat/megaboilerplate) ⭐ 3,801 | 🐛 79 | 🌐 CSS | 📅 2022-07-22 Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app.
+* [Mega Boilerplate](https://github.com/sahat/megaboilerplate) ⭐ 3,800 | 🐛 79 | 🌐 CSS | 📅 2022-07-22 Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app.
 
 * [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 
 * [NodeJS](#node-js)
   * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,251 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28 A boilerplate for Node.js web applications.
-  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,669 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
+  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,667 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
   * [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) ⚠️ Archived - Full stack JS web app boilerplate with Express, Mongo and VueJS)
-  * [Express Boilerplate](https://github.com/expressjs/generator) ⭐ 1,854 | 🐛 77 | 🌐 JavaScript | 📅 2026-03-02 Boilerplate generator for Express.js Projects
+  * [Express Boilerplate](https://github.com/expressjs/generator) ⭐ 1,853 | 🐛 77 | 🌐 JavaScript | 📅 2026-03-02 Boilerplate generator for Express.js Projects
   * [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) ⭐ 745 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-24 Boilerplate to kickstart creating a node module
   * [Yeoman Node Generator](https://github.com/yeoman/generator-node) ⭐ 579 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-01 Yeomans node generator
   * [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2013-03-17 Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
@@ -208,4 +208,4 @@ To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

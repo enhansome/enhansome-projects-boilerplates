@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+            "homepage": null,
             "id": 51148780,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:55:16Z",
+            "open_issues": 223,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45804
+            "stars": 45807,
+            "topics": [
+              "android",
+              "android-architecture",
+              "sample",
+              "samples"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -26,12 +36,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensive Open-Source Guides for Android Developers",
+            "homepage": "guides.codepath.com",
             "id": 10788737,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-16T19:11:02Z",
+            "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28349
+            "stars": 28349,
+            "topics": [
+              "android",
+              "codepath",
+              "development",
+              "guides",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A sample audio app for Android",
+            "homepage": null,
             "id": 31929346,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-09T15:17:00Z",
+            "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13174
+            "stars": 13174,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -58,12 +84,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast Android Development. Easy maintainance.",
+            "homepage": null,
             "id": 3116751,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-31T13:16:38Z",
+            "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10976
+            "stars": 10976,
+            "topics": [
+              "android",
+              "androidannotations",
+              "annotation-processor",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -74,12 +110,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!",
+            "homepage": "http://androidcookbook.com/",
             "id": 2857893,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-02T22:56:47Z",
+            "open_issues": 3,
             "owner": "IanDarwin",
             "repo": "Android-Cookbook-Examples",
-            "stars": 1022
+            "stars": 1022,
+            "topics": [
+              "android",
+              "basics",
+              "compat",
+              "gradle",
+              "gui",
+              "m2e",
+              "mobile",
+              "network",
+              "volley"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -90,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Play game services - Android samples",
+            "homepage": null,
             "id": 10084023,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-05T10:08:53Z",
+            "open_issues": 86,
             "owner": "playgameservices",
             "repo": "android-basic-samples",
-            "stars": 979
+            "stars": 979,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -106,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android template with navigation drawer for material design",
+            "homepage": null,
             "id": 25682021,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-12T18:09:30Z",
+            "open_issues": 9,
             "owner": "kanytu",
             "repo": "android-material-drawer-template",
-            "stars": 665
+            "stars": 665,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -122,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AndroidKickstartR helps you to quickly create a well configured Android application using the most popular libraries. It creates and configures your project for you. Just focus on code!",
+            "homepage": "http://androidkickstartr.com",
             "id": 5941021,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-18T03:17:08Z",
+            "open_issues": 41,
             "owner": "takimafr",
             "repo": "androidkickstartr",
-            "stars": 601
+            "stars": 601,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -138,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Studio / Eclipse ADT template for material-design-icons resources",
+            "homepage": null,
             "id": 26113990,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-07-11T08:02:01Z",
+            "open_issues": 0,
             "owner": "intrications",
             "repo": "material-design-icons-adt-template",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -154,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[MOVED] Quickstart application showing the Google Drive API for Android",
+            "homepage": "https://github.com/gsuitedevs/android-samples",
             "id": 14908777,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-20T22:32:14Z",
+            "open_issues": 7,
             "owner": "googlearchive",
             "repo": "drive-android-quickstart",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -170,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample android application that uses webview",
+            "homepage": "http://dev.tscolari.me/2011/09/19/android-webapp-in-3-minutes",
             "id": 2415559,
             "language": "Java",
+            "license": null,
             "last_commit": "2011-09-19T13:53:45Z",
+            "open_issues": 0,
             "owner": "tscolari",
             "repo": "android-webview-sample-app",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap TBC. Watch this space. ",
+            "homepage": "https://cryptoholics.com",
             "id": 444187598,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-03T20:14:44Z",
+            "open_issues": 0,
             "owner": "AndroidBootstrap",
             "repo": "android-bootstrap",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -208,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS-app template with lots of common tasks solved",
+            "homepage": "http://iosboilerplate.com/",
             "id": 2251700,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2012-02-28T15:44:29Z",
+            "open_issues": 13,
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
-            "stars": 2746
+            "stars": 2746,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -224,12 +315,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated starting point for awesome, reusable Swift 6 modules",
+            "homepage": null,
             "id": 68070155,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-09-28T18:17:27Z",
+            "open_issues": 2,
             "owner": "fulldecent",
             "repo": "swift6-module-template",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "swift",
+              "swift-package-manager",
+              "template",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -240,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Featureful iOS Boilerplate",
+            "homepage": null,
             "id": 17348575,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-23T00:08:19Z",
+            "open_issues": 7,
             "owner": "crushlovely",
             "repo": "Amaro",
-            "stars": 384
+            "stars": 384,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -256,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A template project for developing iOS games with OpenAphid-Engine",
+            "homepage": "http://openaphid.github.com/",
             "id": 4126309,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2013-01-16T07:12:26Z",
+            "open_issues": 0,
             "owner": "openaphid",
             "repo": "Boilerplate-iOS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -278,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handcrafted starter projects, optimized for simplicity and ease of use.",
+            "homepage": null,
             "id": 46940449,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-07-22T00:58:43Z",
+            "open_issues": 79,
             "owner": "sahat",
             "repo": "megaboilerplate",
-            "stars": 3801
+            "stars": 3800,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -299,12 +417,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate for Node.js web applications",
+                "homepage": null,
                 "id": 14370955,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T01:06:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:36:47Z",
+                "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251
+                "stars": 35251,
+                "topics": [
+                  "boilerplate",
+                  "hackathon",
+                  "hacktoberfest",
+                  "nodejs",
+                  "oauth2",
+                  "starter-kit"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -315,12 +445,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+                "homepage": null,
                 "id": 217603326,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-08T10:46:16Z",
+                "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7669
+                "stars": 7667,
+                "topics": [
+                  "boilerplate",
+                  "es2018",
+                  "es6",
+                  "express",
+                  "express-boilerplate",
+                  "jest",
+                  "mongodb",
+                  "mongoose",
+                  "node-boilerplate",
+                  "nodejs",
+                  "rest-api",
+                  "starter"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -331,12 +479,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":star: MEVN Full stack JS web app boilerplate with NodeJS, Express, Mongo and VueJS",
+                "homepage": "http://vemapp.moleculer.services/",
                 "id": 61431835,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-05-28T03:53:23Z",
+                "open_issues": 83,
                 "owner": "icebob",
                 "repo": "vue-express-mongo-boilerplate",
-                "stars": 2823
+                "stars": 2823,
+                "topics": [
+                  "boilerplate",
+                  "express",
+                  "fullstack",
+                  "fullstack-boilerplate",
+                  "graphql",
+                  "mongo",
+                  "nodejs",
+                  "vue",
+                  "vuejs",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -347,12 +511,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Express' application generator",
+                "homepage": null,
                 "id": 14570945,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T12:15:52Z",
+                "open_issues": 77,
                 "owner": "expressjs",
                 "repo": "generator",
-                "stars": 1854
+                "stars": 1853,
+                "topics": [
+                  "express",
+                  "generator",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -363,12 +537,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate to kickstart creating a Node.js module",
+                "homepage": null,
                 "id": 32197913,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-24T11:39:49Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "node-module-boilerplate",
-                "stars": 745
+                "stars": 745,
+                "topics": [
+                  "node-boilerplate",
+                  "node-module",
+                  "nodejs",
+                  "npm-package",
+                  "template-repository"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -379,12 +564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a Node.js module",
+                "homepage": "http://yeoman.io",
                 "id": 10081651,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-01T15:26:55Z",
+                "open_issues": 5,
                 "owner": "yeoman",
                 "repo": "generator-node",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -395,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend",
+                "homepage": null,
                 "id": 8759274,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-03-17T11:48:50Z",
+                "open_issues": 2,
                 "owner": "rudolf",
                 "repo": "webapp-boilerplate",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -411,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scaffold code for projects where NodeJs, Express Framework, and Handlebars View Engine will be used.",
+                "homepage": null,
                 "id": 232649979,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-05T11:47:46Z",
+                "open_issues": 5,
                 "owner": "MohamedMoustafa-UoG",
                 "repo": "NodeExpressHbsScaffold",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -434,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Yeoman generator for AngularJS",
+                "homepage": "http://yeoman.io",
                 "id": 6804324,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-08T15:28:19Z",
+                "open_issues": 90,
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5668
+                "stars": 5668,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -450,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller",
+                "homepage": "http://bit.ly/ngBoilerplate",
                 "id": 8205658,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-02T06:59:46Z",
+                "open_issues": 158,
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3880
+                "stars": 3880,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -466,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel+angular+CouchDb Boiler Template",
+                "homepage": null,
                 "id": 25581845,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-12-21T08:00:29Z",
+                "open_issues": 0,
                 "owner": "melvin0008",
                 "repo": "laravel-angular",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -489,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tweak React components in real time. (Deprecated: use Fast Refresh instead.)",
+                "homepage": "http://gaearon.github.io/react-hot-loader/",
                 "id": 21779020,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-10T02:42:07Z",
+                "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12165
+                "stars": 12165,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -505,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",
+                "homepage": null,
                 "id": 37931301,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-02T08:38:52Z",
+                "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12075
+                "stars": 12075,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -521,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+                "homepage": null,
                 "id": 41835935,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2020-08-21T15:47:58Z",
+                "open_issues": 7,
                 "owner": "gaearon",
                 "repo": "react-transform-boilerplate",
-                "stars": 3333
+                "stars": 3333,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -537,12 +767,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Create an isomorphic React app in less than 5 minutes",
+                "homepage": null,
                 "id": 31394531,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-11-03T11:44:42Z",
+                "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2303
+                "stars": 2302,
+                "topics": [
+                  "babel",
+                  "best-practices",
+                  "isomorphic",
+                  "javascript",
+                  "nodejs",
+                  "react",
+                  "universal",
+                  "webpack",
+                  "wonderful"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -553,12 +798,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A minimal React-Redux boilerplate with all the best practices",
+                "homepage": null,
                 "id": 123692772,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-22T05:13:09Z",
+                "open_issues": 17,
                 "owner": "flexdinesh",
                 "repo": "react-redux-boilerplate",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "jest",
+                  "react",
+                  "react-boilerplate",
+                  "react-redux",
+                  "react-redux-boilerplate",
+                  "reactjs",
+                  "redux",
+                  "redux-saga"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -569,12 +828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate for creating a React npm package",
+                "homepage": null,
                 "id": 14905973,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-22T12:13:48Z",
+                "open_issues": 6,
                 "owner": "petehunt",
                 "repo": "react-boilerplate",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -585,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader",
+                "homepage": null,
                 "id": 39090745,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-02-28T20:39:47Z",
+                "open_issues": 7,
                 "owner": "gaearon",
                 "repo": "library-boilerplate",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -601,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 36489596,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-26T18:54:42Z",
+                "open_issues": 9,
                 "owner": "alexkuz",
                 "repo": "flask-react-boilerplate",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -617,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router",
+                "homepage": "http://kyleamathews.github.io/coffee-react-quickstart",
                 "id": 20662130,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-03-27T17:12:19Z",
+                "open_issues": 10,
                 "owner": "KyleAMathews",
                 "repo": "coffee-react-quickstart",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -633,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal boilerplate for building a react component for npm, including a demo page.",
+                "homepage": null,
                 "id": 116388667,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-22T20:55:20Z",
+                "open_issues": 1,
                 "owner": "markusenglund",
                 "repo": "react-npm-component-starter",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -649,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate project for Reactjs with webpack, gulp and stylus",
+                "homepage": null,
                 "id": 24759823,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-16T09:38:43Z",
+                "open_issues": 2,
                 "owner": "tcoopman",
                 "repo": "boilerplate-webpack-react",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -665,12 +954,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Boilerplate for nodejs universal application using 3REE stack + PostCSS",
+                "homepage": null,
                 "id": 54050526,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-15T10:04:58Z",
+                "open_issues": 0,
                 "owner": "crftd",
                 "repo": "post3ree-boilerplate",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "boilerplate",
+                  "express",
+                  "nodejs-universal-application",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -681,12 +980,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A react typescript npm component boilerplate",
+                "homepage": null,
                 "id": 412387114,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-10-05T09:16:44Z",
+                "open_issues": 1,
                 "owner": "Sivakumar00",
                 "repo": "react-typescript-npm-boilerplate",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "boilerplate-template",
+                  "npm",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -704,12 +1013,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a sample/boilerplate project that shows how to create a production-ready hyperapp application.",
+                "homepage": null,
                 "id": 81228909,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-04T01:57:49Z",
+                "open_issues": 13,
                 "owner": "tzellman",
                 "repo": "hyperapp-boilerplate",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "flyjs",
+                  "hyperapp",
+                  "rollup",
+                  "rollup-example"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -727,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaffold out a Backbone.js project",
+                "homepage": "http://yeoman.io",
                 "id": 6804239,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-13T17:35:09Z",
+                "open_issues": 21,
                 "owner": "yeoman",
                 "repo": "generator-backbone",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -743,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
+                "homepage": "http://addyosmani.com",
                 "id": 3046519,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-04-02T22:13:08Z",
+                "open_issues": 10,
                 "owner": "addyosmani",
                 "repo": "backbone-boilerplates",
-                "stars": 485
+                "stars": 485,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -759,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB",
+                "homepage": "http://kroltech.com/2013/12/boilerplate-web-app-using-backbone-js-expressjs-node-js-mongodb/",
                 "id": 15353733,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-01-02T21:59:41Z",
+                "open_issues": 5,
                 "owner": "shorttompkins",
                 "repo": "benm",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -782,12 +1116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yeoman Generator for jQuery Boilerplate",
+                "homepage": "https://npmjs.org/generator-jquery-boilerplate",
                 "id": 9991672,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-05T14:44:04Z",
+                "open_issues": 2,
                 "owner": "jquery-boilerplate",
                 "repo": "generator-jquery-boilerplate",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -805,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A starting point for Polymer apps",
+                "homepage": null,
                 "id": 34105868,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-28T09:49:35Z",
+                "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2430
+                "stars": 2430,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -821,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaffold out a Polymer project",
+                "homepage": "http://polymer-project.org",
                 "id": 11635422,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-13T17:34:30Z",
+                "open_issues": 14,
                 "owner": "yeoman",
                 "repo": "generator-polymer",
-                "stars": 912
+                "stars": 912,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -837,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Polymer element boilerplate",
+                "homepage": null,
                 "id": 18388099,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-01-25T21:55:54Z",
+                "open_issues": 4,
                 "owner": "googlearchive",
                 "repo": "seed-element",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -860,12 +1214,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Foundation for Scalable Cross-Platform Apps",
+                "homepage": "https://electron-react-boilerplate.js.org/",
                 "id": 35810174,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-29T22:35:26Z",
+                "open_issues": 190,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24255
+                "stars": 24255,
+                "topics": [
+                  "babel",
+                  "boilerplate",
+                  "electron",
+                  "eslint",
+                  "javascript",
+                  "react",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -876,12 +1244,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Boilerplate to kickstart creating an app with Electron",
+                "homepage": null,
                 "id": 34452619,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-17T23:56:39Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
-                "stars": 1642
+                "stars": 1642,
+                "topics": [
+                  "app",
+                  "boilerplate",
+                  "electron",
+                  "electron-boilerplate",
+                  "template",
+                  "template-repository"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             },
@@ -892,12 +1272,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 🚀 TypeScript boilerplate for WhitestormJS using react/redux ⚛",
+                "homepage": "https://github.com/WhitestormJS/whitestorm-typescript-boilerplate",
                 "id": 87646288,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-08-28T17:39:46Z",
+                "open_issues": 1,
                 "owner": "WhitestormJS",
                 "repo": "whitestorm-typescript-boilerplate",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "boilerplate",
+                  "react",
+                  "react-redux",
+                  "redux",
+                  "starter-kit",
+                  "threejs",
+                  "typescript",
+                  "whitestormjs",
+                  "whs"
+                ]
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
             }
@@ -916,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: Simple boilerplate for building Ionic apps with help of Gulp and ES6",
+            "homepage": null,
             "id": 44434632,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-05T12:24:16Z",
+            "open_issues": 2,
             "owner": "MaksimAbramchuk",
             "repo": "ionic-gulp-es6-starter-kit",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -938,12 +1338,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example/starter web app geared for small-ish teams interested in using a microservices architecture",
+            "homepage": null,
             "id": 202796250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T11:29:40Z",
+            "open_issues": 31,
             "owner": "ferbs",
             "repo": "webstack-micro",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "background-worker",
+              "microservices-architecture",
+              "microservices-demo",
+              "openid-connect",
+              "starter-kit",
+              "starter-project",
+              "traefik-gateway",
+              "webapp-boilerplate",
+              "webstack-micro"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -960,12 +1375,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+            "homepage": "https://pypi.org/project/cookiecutter/",
             "id": 11407242,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
+            "open_issues": 312,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25066
+            "stars": 25066,
+            "topics": [
+              "cookiecutter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -976,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.",
+            "homepage": null,
             "id": 6256036,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-17T16:02:20Z",
+            "open_issues": 24,
             "owner": "imwilsonxu",
             "repo": "fbone",
-            "stars": 1702
+            "stars": 1702,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -992,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate for Django web applications",
+            "homepage": null,
             "id": 35254214,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-05T08:19:30Z",
+            "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1614
+            "stars": 1614,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1008,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A solid foundation for your flask app",
+            "homepage": "https://jackstouffer.com/flask-foundation/",
             "id": 12841600,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-01T22:49:21Z",
+            "open_issues": 3,
             "owner": "JackStouffer",
             "repo": "Flask-Foundation",
-            "stars": 1277
+            "stars": 1277,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1024,12 +1462,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Boilerplate project template for running Flask on Google App Engine -- supplanted by https://github.com/kamalgill/cloud-starterkit-flask-appengine",
+            "homepage": null,
             "id": 922933,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-24T20:16:02Z",
+            "open_issues": 4,
             "owner": "kamalgill",
             "repo": "flask-appengine-template",
-            "stars": 1068
+            "stars": 1068,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1040,12 +1483,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google App Engine Boilerplate",
+            "homepage": "https://dev-dot-sandengine.appspot.com/",
             "id": 3422923,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-20T15:00:25Z",
+            "open_issues": 43,
             "owner": "coto",
             "repo": "gae-boilerplate",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "datastore",
+              "engine-boilerplate",
+              "flask",
+              "gae-boilerplate",
+              "google-app-engine",
+              "google-app-engine-project",
+              "python",
+              "python2",
+              "webapp2",
+              "webapp2-python"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1056,12 +1515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bootstrap Python application, so that you can focus on writing code",
+            "homepage": null,
             "id": 12697914,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2013-09-16T09:50:02Z",
+            "open_issues": 1,
             "owner": "kirang89",
             "repo": "bootstrapy",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "boilerplate-application",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1072,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend ",
+            "homepage": null,
             "id": 3640773,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-27T08:31:38Z",
+            "open_issues": 1,
             "owner": "esbullington",
             "repo": "flask-bootstrap",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1088,12 +1560,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, flexible, and extensible template for PyTorch. It's beautiful.",
+            "homepage": null,
             "id": 138976364,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-07T10:46:26Z",
+            "open_issues": 0,
             "owner": "cmsflash",
             "repo": "beauty-net",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "image-classification",
+              "pytorch",
+              "pytorch-template"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1104,12 +1588,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready Django 5.2 LTS template",
+            "homepage": "https://railway.com/deploy/django-starter-template?referralCode=iZa9TM",
             "id": 22037975,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T09:53:35Z",
+            "open_issues": 0,
             "owner": "fasouto",
             "repo": "django-starter-template",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "django",
+              "project-creation",
+              "project-template",
+              "railway",
+              "railway-app"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1120,12 +1615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flask Skeleton for large applications",
+            "homepage": null,
             "id": 29265332,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2015-01-17T11:53:03Z",
+            "open_issues": 0,
             "owner": "melvin0008",
             "repo": "FlaskBoilerplate",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1136,12 +1636,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":necktie: Cherrpy + Mako + Formish + OOOP boilerplate.",
+            "homepage": "http://kevin.deldycke.com/2011/08/cherrypy-mako-formish-ooop-boilerplate/",
             "id": 2041205,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2013-08-15T17:30:28Z",
+            "open_issues": 0,
             "owner": "kdeldycke",
             "repo": "cherrypy_mako_formish_ooop_boilerplate",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "abandoned",
+              "boilerplate",
+              "cherrypy",
+              "demo",
+              "formish",
+              "mako",
+              "odoo",
+              "openerp",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1158,12 +1673,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use your angular templates with rails' asset pipeline",
+            "homepage": "https://rubygems.org/gems/angular-rails-templates",
             "id": 11451447,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-11-23T23:46:51Z",
+            "open_issues": 9,
             "owner": "pitr",
             "repo": "angular-rails-templates",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "angular",
+              "angular-rails-templates",
+              "angular-template",
+              "rails",
+              "rails-asset-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1174,12 +1700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails 5.1 starter app with the Bootstrap 4 front-end framework.",
+            "homepage": null,
             "id": 11301392,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-05-17T13:24:00Z",
+            "open_issues": 9,
             "owner": "RailsApps",
             "repo": "rails-bootstrap",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1196,12 +1727,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASP.NET Boilerplate - Web Application Framework",
+            "homepage": "https://aspnetboilerplate.com",
             "id": 12201538,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:25:08Z",
+            "open_issues": 62,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12005
+            "stars": 12005,
+            "topics": [
+              "abp",
+              "architecture",
+              "aspnet",
+              "aspnet-core",
+              "aspnetcore",
+              "best-practices",
+              "c-sharp",
+              "csharp",
+              "domain-driven-design",
+              "dotnet",
+              "dotnet-core",
+              "framework",
+              "multi-tenancy",
+              "nlayer-architecture"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1218,12 +1769,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gin + react app demo",
+            "homepage": null,
             "id": 141896123,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-09-19T23:06:37Z",
+            "open_issues": 0,
             "owner": "sharath",
             "repo": "go-react-boilerplate",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "boilerplate",
+              "gin",
+              "go",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1240,12 +1802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser Extension Webpack Boilerplate",
+            "homepage": null,
             "id": 117103061,
             "language": "JavaScript",
+            "license": "0BSD",
             "last_commit": "2018-01-11T13:23:10Z",
+            "open_issues": 4,
             "owner": "fstanis",
             "repo": "webextensions-webpack-boilerplate",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1262,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Starter Kit - a workflow for multi-device websites",
+            "homepage": "http://developers.google.com/web/starter-kit",
             "id": 18511024,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T23:42:34Z",
+            "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18274
+            "stars": 18274,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1278,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate meteor app - starting point for meteor apps",
+            "homepage": "http://github.differential.com/meteor-boilerplate/",
             "id": 13125686,
             "language": "Handlebars",
+            "license": null,
             "last_commit": "2016-04-14T05:11:34Z",
+            "open_issues": 25,
             "owner": "Differential",
             "repo": "meteor-boilerplate",
-            "stars": 868
+            "stars": 868,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1294,12 +1871,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Jekyll Progressive Web App Generator.",
+            "homepage": null,
             "id": 67339229,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-03-04T02:30:49Z",
+            "open_issues": 5,
             "owner": "nirgn975",
             "repo": "generator-jekyll-starter-kit",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "automation",
+              "best-practices",
+              "es2015",
+              "firebase",
+              "generator",
+              "gh-pages",
+              "jekyll",
+              "progressive-web-app",
+              "project-template",
+              "pug",
+              "scss",
+              "seed",
+              "service-worker",
+              "starter-kit",
+              "travis-ci",
+              "yeoman"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1310,12 +1909,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated starting point and build system for awesome, collaboratively-edited HTML websites",
+            "homepage": "https://fulldecent.github.io/github-pages-template/",
             "id": 79372738,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-24T21:14:00Z",
+            "open_issues": 2,
             "owner": "fulldecent",
             "repo": "github-pages-template",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "html",
+              "html-website",
+              "template",
+              "travis-ci",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1332,12 +1942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template system for Emacs",
+            "homepage": "http://joaotavora.github.io/yasnippet/",
             "id": 2537904,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2025-06-04T20:22:16Z",
+            "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2956
+            "stars": 2956,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         },
@@ -1348,12 +1963,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple templates plugin for Vim ",
+            "homepage": null,
             "id": 3652955,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2026-06-14T18:40:54Z",
+            "open_issues": 22,
             "owner": "aperezdc",
             "repo": "vim-template",
-            "stars": 380
+            "stars": 380,
+            "topics": [
+              "neovim-plugin",
+              "template",
+              "templates",
+              "vim-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1370,12 +1995,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template your base files and generate new projects from Git(Hub).",
+            "homepage": null,
             "id": 24293986,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2019-08-14T22:20:18Z",
+            "open_issues": 9,
             "owner": "howardroark",
             "repo": "pollinate",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "boilerplate",
+              "cli",
+              "generator",
+              "git",
+              "github",
+              "nunjucks",
+              "parsing",
+              "project",
+              "scaffolding",
+              "schema",
+              "skeleton",
+              "templates",
+              "yeoman"
+            ]
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
         }
@@ -1391,12 +2035,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Boilerplates for mobile and web apps",
+            "homepage": null,
             "id": 29382033,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-06T14:19:39Z",
+            "open_issues": 18,
             "owner": "melvin0008",
             "repo": "awesome-projects-boilerplates",
-            "stars": 1406
+            "stars": 1406,
+            "topics": []
           },
           "title": "Contributing",
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1406,15 +2055,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:21:55.906Z",
+    "last_updated": "2026-08-29T04:34:02.375Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Boilerplates for mobile and web apps",
+      "homepage": null,
       "id": 29382033,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-06T14:19:39Z",
+      "open_issues": 18,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1406
+      "stars": 1406,
+      "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
     "enhanced_repository": "enhansome/enhansome-projects-boilerplates",
