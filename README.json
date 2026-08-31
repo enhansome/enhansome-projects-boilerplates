@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45812,
+            "stars": 45814,
             "topics": [
               "android",
               "android-architecture",
@@ -303,7 +303,7 @@
             "open_issues": 13,
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
-            "stars": 2746,
+            "stars": 2744,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -426,7 +426,7 @@
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7668,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -643,7 +643,7 @@
                 "open_issues": 90,
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5668,
+                "stars": 5667,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -734,7 +734,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12074,
+                "stars": 12073,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -879,7 +879,7 @@
                 "open_issues": 9,
                 "owner": "alexkuz",
                 "repo": "flask-react-boilerplate",
-                "stars": 362,
+                "stars": 361,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1125,7 +1125,7 @@
                 "open_issues": 2,
                 "owner": "jquery-boilerplate",
                 "repo": "generator-jquery-boilerplate",
-                "stars": 149,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 190,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24257,
+                "stars": 24255,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 312,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25067,
+            "stars": 25070,
             "topics": [
               "cookiecutter",
               "python"
@@ -1951,7 +1951,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2956,
+            "stars": 2957,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2044,7 +2044,7 @@
             "open_issues": 18,
             "owner": "melvin0008",
             "repo": "awesome-projects-boilerplates",
-            "stars": 1406,
+            "stars": 1407,
             "topics": []
           },
           "title": "Contributing",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:19:42.164Z",
+    "last_updated": "2026-08-31T08:39:51.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2067,7 +2067,7 @@
       "open_issues": 18,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1406,
+      "stars": 1407,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
