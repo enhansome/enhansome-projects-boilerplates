@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45814,
+            "stars": 45816,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28348,
+            "stars": 28349,
             "topics": [
               "android",
               "codepath",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7668,
+                "stars": 7669,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -1223,7 +1223,7 @@
                 "open_issues": 190,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24255,
+                "stars": 24254,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 312,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25070,
+            "stars": 25069,
             "topics": [
               "cookiecutter",
               "python"
@@ -1736,7 +1736,7 @@
             "open_issues": 62,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12003,
+            "stars": 12002,
             "topics": [
               "abp",
               "architecture",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:39:51.843Z",
+    "last_updated": "2026-09-01T07:49:59.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
