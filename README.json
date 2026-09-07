@@ -19,7 +19,7 @@
             "open_issues": 224,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45817,
+            "stars": 45819,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28348,
+            "stars": 28347,
             "topics": [
               "android",
               "codepath",
@@ -426,7 +426,7 @@
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7668,
+                "stars": 7667,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -520,7 +520,7 @@
                 "open_issues": 77,
                 "owner": "expressjs",
                 "repo": "generator",
-                "stars": 1853,
+                "stars": 1852,
                 "topics": [
                   "express",
                   "generator",
@@ -713,7 +713,7 @@
                 "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12165,
+                "stars": 12164,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 195,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24254,
+                "stars": 24253,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 311,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25076,
+            "stars": 25078,
             "topics": [
               "cookiecutter",
               "python"
@@ -1736,7 +1736,7 @@
             "open_issues": 64,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12001,
+            "stars": 12002,
             "topics": [
               "abp",
               "architecture",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:08:22.194Z",
+    "last_updated": "2026-09-07T07:20:24.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
