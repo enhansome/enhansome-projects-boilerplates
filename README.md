@@ -23,8 +23,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,832 | 🐛 226 | 🌐 Kotlin | 📅 2026-09-09 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
-* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,343 | 🐛 162 | 📅 2026-01-16 Android Guide.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,834 | 🐛 226 | 🌐 Kotlin | 📅 2026-09-18 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
+* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,344 | 🐛 162 | 📅 2026-01-16 Android Guide.
 * [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) ⚠️ Archived Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
 * [Android Annotations](https://github.com/excilys/androidannotations) ⚠️ Archived Fast Android Development. Easy maintainance.
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) ⭐ 1,021 | 🐛 3 | 🌐 Java | 📅 2026-07-02 Collected code examples from the O'Reilly Android Cookbook.
@@ -54,8 +54,8 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 
 * [NodeJS](#node-js)
-  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,253 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 A boilerplate for Node.js web applications.
-  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,667 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
+  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,254 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 A boilerplate for Node.js web applications.
+  * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,666 | 🐛 111 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
   * [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) ⚠️ Archived - Full stack JS web app boilerplate with Express, Mongo and VueJS)
   * [Express Boilerplate](https://github.com/expressjs/generator) ⭐ 1,851 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-02 Boilerplate generator for Express.js Projects
   * [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) ⭐ 745 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-24 Boilerplate to kickstart creating a node module
@@ -118,16 +118,16 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Python*
 
-* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,091 | 🐛 313 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
+* [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,094 | 🐛 313 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
 * [Fbone](https://github.com/imwilsonxu/fbone) ⭐ 1,701 | 🐛 24 | 🌐 Python | 📅 2022-05-17 Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,612 | 🐛 20 | 🌐 Python | 📅 2020-03-05 A boilerplate for Django web applications, providing various social logins and several popular API examples.
 * [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) ⭐ 1,276 | 🐛 3 | 🌐 Python | 📅 2023-05-01 App built with best practices.
 * [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) ⚠️ Archived Flask App engine Template
-* [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) ⭐ 682 | 🐛 43 | 🌐 Python | 📅 2024-10-20 A Complete boilerplate for Python Webapp2 on Google App Engine
+* [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) ⭐ 681 | 🐛 43 | 🌐 Python | 📅 2024-10-20 A Complete boilerplate for Python Webapp2 on Google App Engine
 * [bootstrapy](https://github.com/kirang89/bootstrapy) ⭐ 285 | 🐛 1 | 🌐 Python | 📅 2013-09-16 A bootstrap Python application, so that you can focus on writing code.
 * [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) ⭐ 210 | 🐛 1 | 🌐 JavaScript | 📅 2022-12-27 A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 * [BeautyNet](https://github.com/cms-flash/beauty-net) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2023-11-07 A research project template for PyTorch.
-* [Django Starter Template](https://github.com/fasouto/django-starter-template) ⭐ 158 | 🐛 4 | 🌐 Python | 📅 2026-09-11 An easy to use project template for Django that follows best practices.
+* [Django Starter Template](https://github.com/fasouto/django-starter-template) ⭐ 158 | 🐛 4 | 🌐 Python | 📅 2026-09-18 An easy to use project template for Django that follows best practices.
 * [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2015-01-17 A very simple flask boilerplate with folder structures.
 * [CherryPy + Mako + Formish + OOOP boilerplate](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) ⚠️ Archived Targets publishing of OpenERP content to the web.
 * [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.
@@ -152,7 +152,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 11,999 | 🐛 62 | 🌐 C# | 📅 2026-09-18 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,000 | 🐛 63 | 🌐 C# | 📅 2026-09-18 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 ## Go
 
@@ -196,7 +196,7 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Pollinate](https://github.com/everysquare/pollinate) ⭐ 228 | 🐛 9 | 🌐 JavaScript | 📅 2019-08-14 Template your base files and generate them from GitHub.
 * [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
-# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD) ⭐ 1,408 | 🐛 19 | 📅 2024-08-06
+# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD) ⭐ 1,409 | 🐛 19 | 📅 2024-08-06
 
 Your contributions are always welcome!
 
@@ -208,4 +208,4 @@ To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

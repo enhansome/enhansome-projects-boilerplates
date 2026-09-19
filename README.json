@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T20:43:33Z",
+            "last_commit": "2026-09-18T22:00:45Z",
             "open_issues": 226,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45832,
+            "stars": 45834,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28343,
+            "stars": 28344,
             "topics": [
               "android",
               "codepath",
@@ -422,11 +422,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:35:22Z",
+                "last_commit": "2026-09-18T13:30:44Z",
                 "open_issues": 1,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35253,
+                "stars": 35254,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7666,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -1384,7 +1384,7 @@
             "open_issues": 313,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25091,
+            "stars": 25094,
             "topics": [
               "cookiecutter",
               "python"
@@ -1492,7 +1492,7 @@
             "open_issues": 43,
             "owner": "coto",
             "repo": "gae-boilerplate",
-            "stars": 682,
+            "stars": 681,
             "topics": [
               "datastore",
               "engine-boilerplate",
@@ -1593,7 +1593,7 @@
             "id": 22037975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T15:35:03Z",
+            "last_commit": "2026-09-18T15:35:12Z",
             "open_issues": 4,
             "owner": "fasouto",
             "repo": "django-starter-template",
@@ -1733,10 +1733,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-18T01:36:41Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11999,
+            "stars": 12000,
             "topics": [
               "abp",
               "architecture",
@@ -1838,7 +1838,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18268,
+            "stars": 18267,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2044,7 +2044,7 @@
             "open_issues": 19,
             "owner": "melvin0008",
             "repo": "awesome-projects-boilerplates",
-            "stars": 1408,
+            "stars": 1409,
             "topics": []
           },
           "title": "Contributing",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:24:52.926Z",
+    "last_updated": "2026-09-19T07:21:05.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2067,7 +2067,7 @@
       "open_issues": 19,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1408,
+      "stars": 1409,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
