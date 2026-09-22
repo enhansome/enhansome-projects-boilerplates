@@ -19,7 +19,7 @@
             "open_issues": 227,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45838,
+            "stars": 45839,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28346,
             "topics": [
               "android",
               "codepath",
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10970,
+            "stars": 10969,
             "topics": [
               "android",
               "androidannotations",
@@ -150,7 +150,7 @@
             "open_issues": 86,
             "owner": "playgameservices",
             "repo": "android-basic-samples",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -422,11 +422,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T05:43:57Z",
+                "last_commit": "2026-09-21T13:29:04Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35253,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7663,
+                "stars": 7664,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -517,7 +517,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-03-02T12:15:52Z",
-                "open_issues": 79,
+                "open_issues": 78,
                 "owner": "expressjs",
                 "repo": "generator",
                 "stars": 1851,
@@ -713,7 +713,7 @@
                 "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12160,
+                "stars": 12159,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -734,7 +734,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12067,
+                "stars": 12066,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -755,7 +755,7 @@
                 "open_issues": 7,
                 "owner": "gaearon",
                 "repo": "react-transform-boilerplate",
-                "stars": 3329,
+                "stars": 3328,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1384,7 +1384,7 @@
             "open_issues": 316,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25097,
+            "stars": 25100,
             "topics": [
               "cookiecutter",
               "python"
@@ -1732,11 +1732,11 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T01:36:41Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-22T05:28:58Z",
+            "open_issues": 64,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12001,
+            "stars": 12000,
             "topics": [
               "abp",
               "architecture",
@@ -1838,7 +1838,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18267,
+            "stars": 18266,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:58:38.533Z",
+    "last_updated": "2026-09-22T07:43:31.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
