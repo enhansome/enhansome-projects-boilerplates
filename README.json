@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T22:31:52Z",
+            "last_commit": "2026-09-25T04:02:46Z",
             "open_issues": 227,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45846,
+            "stars": 45845,
             "topics": [
               "android",
               "android-architecture",
@@ -426,7 +426,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35254,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 111,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7663,
+                "stars": 7661,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -713,7 +713,7 @@
                 "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12158,
+                "stars": 12159,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24251,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 319,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25106,
+            "stars": 25109,
             "topics": [
               "cookiecutter",
               "python"
@@ -1732,11 +1732,11 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T10:10:48Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-25T06:29:34Z",
+            "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11999,
+            "stars": 11998,
             "topics": [
               "abp",
               "architecture",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:36:51.297Z",
+    "last_updated": "2026-09-25T07:50:14.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
