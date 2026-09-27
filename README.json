@@ -19,7 +19,7 @@
             "open_issues": 227,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45844,
+            "stars": 45843,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28346,
             "topics": [
               "android",
               "codepath",
@@ -324,7 +324,7 @@
             "open_issues": 2,
             "owner": "fulldecent",
             "repo": "swift6-module-template",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "cocoapods",
               "ios",
@@ -426,7 +426,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -573,7 +573,7 @@
                 "open_issues": 5,
                 "owner": "yeoman",
                 "repo": "generator-node",
-                "stars": 579,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -643,7 +643,7 @@
                 "open_issues": 90,
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5666,
+                "stars": 5665,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24255,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:43:51.679Z",
+    "last_updated": "2026-09-27T08:11:59.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
