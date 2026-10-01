@@ -19,7 +19,7 @@
             "open_issues": 227,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45849,
+            "stars": 45848,
             "topics": [
               "android",
               "android-architecture",
@@ -150,7 +150,7 @@
             "open_issues": 86,
             "owner": "playgameservices",
             "repo": "android-basic-samples",
-            "stars": 981,
+            "stars": 982,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -426,7 +426,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -451,10 +451,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-08T10:46:16Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7665,
+                "stars": 7666,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -734,7 +734,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12064,
+                "stars": 12065,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1384,7 +1384,7 @@
             "open_issues": 319,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25119,
+            "stars": 25121,
             "topics": [
               "cookiecutter",
               "python"
@@ -1408,7 +1408,7 @@
             "open_issues": 24,
             "owner": "imwilsonxu",
             "repo": "fbone",
-            "stars": 1701,
+            "stars": 1702,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T08:36:04.505Z",
+    "last_updated": "2026-10-01T08:57:53.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
