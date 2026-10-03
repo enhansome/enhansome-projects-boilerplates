@@ -16,7 +16,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-26T01:52:33Z",
-            "open_issues": 227,
+            "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
             "stars": 45850,
@@ -1384,7 +1384,7 @@
             "open_issues": 322,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25124,
+            "stars": 25125,
             "topics": [
               "cookiecutter",
               "python"
@@ -2028,7 +2028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:02.880Z",
+    "last_updated": "2026-10-03T08:07:32.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
