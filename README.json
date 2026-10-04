@@ -303,7 +303,7 @@
             "open_issues": 13,
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
-            "stars": 2743,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -426,7 +426,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35255,
+                "stars": 35253,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 112,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7666,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -1153,7 +1153,7 @@
                 "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2429,
+                "stars": 2428,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1253,7 +1253,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
-                "stars": 1642,
+                "stars": 1641,
                 "topics": [
                   "app",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 322,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25125,
+            "stars": 25128,
             "topics": [
               "cookiecutter",
               "python"
@@ -1736,7 +1736,7 @@
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11998,
+            "stars": 11997,
             "topics": [
               "abp",
               "architecture",
@@ -2028,7 +2028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:07:32.629Z",
+    "last_updated": "2026-10-04T08:27:47.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
