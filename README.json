@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45850,
+            "stars": 45852,
             "topics": [
               "android",
               "android-architecture",
@@ -426,7 +426,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35253,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +454,7 @@
                 "open_issues": 112,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7666,
+                "stars": 7664,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -734,7 +734,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12056,
+                "stars": 12055,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -776,7 +776,7 @@
                 "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2299,
+                "stars": 2298,
                 "topics": [
                   "babel",
                   "best-practices",
@@ -1174,7 +1174,7 @@
                 "open_issues": 14,
                 "owner": "yeoman",
                 "repo": "generator-polymer",
-                "stars": 912,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252,
+                "stars": 24251,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1384,7 @@
             "open_issues": 322,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25128,
+            "stars": 25130,
             "topics": [
               "cookiecutter",
               "python"
@@ -2028,7 +2028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:27:47.143Z",
+    "last_updated": "2026-10-05T09:06:10.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
