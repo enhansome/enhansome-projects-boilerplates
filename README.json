@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28344,
             "topics": [
               "android",
               "codepath",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13167,
+            "stars": 13166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10967,
+            "stars": 10966,
             "topics": [
               "android",
               "androidannotations",
@@ -119,7 +119,7 @@
             "open_issues": 3,
             "owner": "IanDarwin",
             "repo": "Android-Cookbook-Examples",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "android",
               "basics",
@@ -192,7 +192,7 @@
             "open_issues": 41,
             "owner": "takimafr",
             "repo": "androidkickstartr",
-            "stars": 599,
+            "stars": 598,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -422,7 +422,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:33:10Z",
+                "last_commit": "2026-10-06T13:37:11Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -454,7 +454,7 @@
                 "open_issues": 112,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7665,
+                "stars": 7666,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -713,7 +713,7 @@
                 "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12151,
+                "stars": 12150,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -734,7 +734,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12054,
+                "stars": 12053,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1223,7 +1223,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252,
+                "stars": 24251,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1429,7 +1429,7 @@
             "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1612,
+            "stars": 1611,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1736,7 +1736,7 @@
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11998,
+            "stars": 11999,
             "topics": [
               "abp",
               "architecture",
@@ -2028,7 +2028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:33.875Z",
+    "last_updated": "2026-10-07T08:40:41.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
