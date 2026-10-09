@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T03:59:11Z",
+            "last_commit": "2026-10-09T01:00:45Z",
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45853,
+            "stars": 45854,
             "topics": [
               "android",
               "android-architecture",
@@ -119,7 +119,7 @@
             "open_issues": 3,
             "owner": "IanDarwin",
             "repo": "Android-Cookbook-Examples",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "android",
               "basics",
@@ -320,13 +320,14 @@
             "id": 68070155,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:22:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-09T03:47:26Z",
+            "open_issues": 3,
             "owner": "fulldecent",
             "repo": "swift6-module-template",
             "stars": 489,
             "topics": [
               "cocoapods",
+              "github-template",
               "ios",
               "swift",
               "swift-package-manager",
@@ -422,11 +423,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T13:29:25Z",
+                "last_commit": "2026-10-08T13:29:26Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35251,
+                "stars": 35252,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -454,7 +455,7 @@
                 "open_issues": 113,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7664,
+                "stars": 7665,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -488,7 +489,7 @@
                 "open_issues": 83,
                 "owner": "icebob",
                 "repo": "vue-express-mongo-boilerplate",
-                "stars": 2823,
+                "stars": 2824,
                 "topics": [
                   "boilerplate",
                   "express",
@@ -664,7 +665,7 @@
                 "open_issues": 158,
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3879,
+                "stars": 3880,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -776,7 +777,7 @@
                 "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2298,
+                "stars": 2299,
                 "topics": [
                   "babel",
                   "best-practices",
@@ -1223,7 +1224,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1384,7 +1385,7 @@
             "open_issues": 324,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25135,
+            "stars": 25139,
             "topics": [
               "cookiecutter",
               "python"
@@ -1429,7 +1430,7 @@
             "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1611,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1732,7 +1733,7 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T05:19:50Z",
+            "last_commit": "2026-10-09T07:19:03Z",
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
@@ -1838,7 +1839,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18264,
+            "stars": 18266,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1913,13 +1914,16 @@
             "homepage": "https://fulldecent.github.io/github-pages-template/",
             "id": 79372738,
             "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-09-11T20:53:14Z",
-            "open_issues": 3,
+            "license": "MIT",
+            "last_commit": "2026-10-09T05:31:37Z",
+            "open_issues": 4,
             "owner": "fulldecent",
             "repo": "github-pages-template",
             "stars": 41,
             "topics": [
+              "github-actions",
+              "github-pages",
+              "github-template",
               "html",
               "html-website",
               "template",
@@ -2028,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:59:31.857Z",
+    "last_updated": "2026-10-09T09:06:19.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2040,7 +2044,7 @@
       "open_issues": 19,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1408,
+      "stars": 1409,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
