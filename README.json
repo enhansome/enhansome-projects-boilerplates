@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45854,
+            "stars": 45855,
             "topics": [
               "android",
               "android-architecture",
@@ -303,7 +303,7 @@
             "open_issues": 13,
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
-            "stars": 2742,
+            "stars": 2743,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -320,7 +320,7 @@
             "id": 68070155,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-09T03:47:26Z",
+            "last_commit": "2026-10-09T17:21:03Z",
             "open_issues": 3,
             "owner": "fulldecent",
             "repo": "swift6-module-template",
@@ -423,11 +423,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T13:29:26Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-09T13:30:02Z",
+                "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35251,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -455,7 +455,7 @@
                 "open_issues": 113,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7665,
+                "stars": 7663,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -644,7 +644,7 @@
                 "open_issues": 90,
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5663,
+                "stars": 5660,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 9,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252,
+                "stars": 24255,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:06:19.162Z",
+    "last_updated": "2026-10-10T08:30:37.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 19,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1409,
+      "stars": 1410,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
