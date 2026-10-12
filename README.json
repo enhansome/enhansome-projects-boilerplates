@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45856,
+            "stars": 45853,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28344,
+            "stars": 28343,
             "topics": [
               "android",
               "codepath",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13165,
+            "stars": 13164,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10965,
+            "stars": 10964,
             "topics": [
               "android",
               "androidannotations",
@@ -171,7 +171,7 @@
             "open_issues": 9,
             "owner": "kanytu",
             "repo": "android-material-drawer-template",
-            "stars": 664,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -192,7 +192,7 @@
             "open_issues": 41,
             "owner": "takimafr",
             "repo": "androidkickstartr",
-            "stars": 598,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -303,7 +303,7 @@
             "open_issues": 13,
             "owner": "gimenete",
             "repo": "iOS-boilerplate",
-            "stars": 2743,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -427,7 +427,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35249,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -644,7 +644,7 @@
                 "open_issues": 90,
                 "owner": "yeoman",
                 "repo": "generator-angular",
-                "stars": 5660,
+                "stars": 5659,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -665,7 +665,7 @@
                 "open_issues": 158,
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3880,
+                "stars": 3879,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -714,7 +714,7 @@
                 "open_issues": 462,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12148,
+                "stars": 12147,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -756,7 +756,7 @@
                 "open_issues": 7,
                 "owner": "gaearon",
                 "repo": "react-transform-boilerplate",
-                "stars": 3327,
+                "stars": 3326,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1348,7 +1348,7 @@
             "open_issues": 31,
             "owner": "ferbs",
             "repo": "webstack-micro",
-            "stars": 88,
+            "stars": 87,
             "topics": [
               "background-worker",
               "microservices-architecture",
@@ -1382,10 +1382,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
-            "open_issues": 324,
+            "open_issues": 326,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25143,
+            "stars": 25146,
             "topics": [
               "cookiecutter",
               "python"
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1611,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1683,7 +1683,7 @@
             "open_issues": 9,
             "owner": "pitr",
             "repo": "angular-rails-templates",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "angular",
               "angular-rails-templates",
@@ -1733,7 +1733,7 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-09T07:19:03Z",
+            "last_commit": "2026-10-12T07:10:40Z",
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:53:13.525Z",
+    "last_updated": "2026-10-12T09:14:31.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 19,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1410,
+      "stars": 1411,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
