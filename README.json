@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T01:00:45Z",
+            "last_commit": "2026-10-13T00:49:53Z",
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45853,
+            "stars": 45856,
             "topics": [
               "android",
               "android-architecture",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13164,
+            "stars": 13162,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10964,
+            "stars": 10965,
             "topics": [
               "android",
               "androidannotations",
@@ -320,11 +320,11 @@
             "id": 68070155,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-09T17:21:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-12T20:55:49Z",
+            "open_issues": 2,
             "owner": "fulldecent",
             "repo": "swift6-module-template",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "cocoapods",
               "github-template",
@@ -427,7 +427,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35250,
+                "stars": 35249,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -735,7 +735,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12053,
+                "stars": 12052,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1220,11 +1220,11 @@
                 "id": 35810174,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T21:13:29Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-12T11:00:39Z",
+                "open_issues": 11,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24254,
+                "stars": 24256,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1254,7 +1254,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
-                "stars": 1641,
+                "stars": 1642,
                 "topics": [
                   "app",
                   "boilerplate",
@@ -1348,7 +1348,7 @@
             "open_issues": 31,
             "owner": "ferbs",
             "repo": "webstack-micro",
-            "stars": 87,
+            "stars": 86,
             "topics": [
               "background-worker",
               "microservices-architecture",
@@ -1385,7 +1385,7 @@
             "open_issues": 326,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25146,
+            "stars": 25145,
             "topics": [
               "cookiecutter",
               "python"
@@ -1733,11 +1733,11 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:10:40Z",
+            "last_commit": "2026-10-13T06:17:28Z",
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11998,
+            "stars": 11997,
             "topics": [
               "abp",
               "architecture",
@@ -1839,7 +1839,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18266,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:14:31.169Z",
+    "last_updated": "2026-10-13T09:26:29.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
