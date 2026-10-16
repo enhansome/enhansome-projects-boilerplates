@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45864,
+            "stars": 45867,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 162,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28344,
+            "stars": 28348,
             "topics": [
               "android",
               "codepath",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13162,
+            "stars": 13160,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10965,
+            "stars": 10964,
             "topics": [
               "android",
               "androidannotations",
@@ -427,7 +427,7 @@
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35250,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -455,7 +455,7 @@
                 "open_issues": 115,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7668,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -521,7 +521,7 @@
                 "open_issues": 79,
                 "owner": "expressjs",
                 "repo": "generator",
-                "stars": 1851,
+                "stars": 1850,
                 "topics": [
                   "express",
                   "generator",
@@ -735,7 +735,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12052,
+                "stars": 12051,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1254,7 +1254,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "electron-boilerplate",
-                "stars": 1643,
+                "stars": 1642,
                 "topics": [
                   "app",
                   "boilerplate",
@@ -1385,7 +1385,7 @@
             "open_issues": 329,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25146,
+            "stars": 25148,
             "topics": [
               "cookiecutter",
               "python"
@@ -1451,7 +1451,7 @@
             "open_issues": 3,
             "owner": "JackStouffer",
             "repo": "Flask-Foundation",
-            "stars": 1274,
+            "stars": 1273,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1733,11 +1733,11 @@
             "id": 12201538,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-13T10:25:29Z",
+            "last_commit": "2026-10-16T04:28:00Z",
             "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 11996,
+            "stars": 11994,
             "topics": [
               "abp",
               "architecture",
@@ -1839,7 +1839,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18264,
+            "stars": 18265,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:27:54.337Z",
+    "last_updated": "2026-10-16T07:11:14.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
