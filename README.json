@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45876,
+            "stars": 45880,
             "topics": [
               "android",
               "android-architecture",
@@ -452,10 +452,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-08T10:46:16Z",
-                "open_issues": 115,
+                "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7669,
+                "stars": 7667,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -711,7 +711,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-02-10T02:42:07Z",
-                "open_issues": 462,
+                "open_issues": 463,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
                 "stars": 12149,
@@ -735,7 +735,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12051,
+                "stars": 12052,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 11,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24254,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1385,7 +1385,7 @@
             "open_issues": 330,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25148,
+            "stars": 25149,
             "topics": [
               "cookiecutter",
               "python"
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2958,
+            "stars": 2959,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:14:15.486Z",
+    "last_updated": "2026-10-19T07:47:44.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2041,7 +2041,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-06T14:19:39Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
       "stars": 1411,
