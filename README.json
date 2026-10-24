@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45867,
+            "stars": 45871,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28343,
+            "stars": 28342,
             "topics": [
               "android",
               "codepath",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13160,
+            "stars": 13161,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10962,
+            "stars": 10964,
             "topics": [
               "android",
               "androidannotations",
@@ -423,11 +423,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T13:29:05Z",
+                "last_commit": "2026-10-23T13:29:29Z",
                 "open_issues": 2,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35252,
+                "stars": 35254,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7668,
+                "stars": 7669,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -714,7 +714,7 @@
                 "open_issues": 463,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12148,
+                "stars": 12149,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1220,8 +1220,8 @@
                 "id": 35810174,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:00:39Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-23T10:01:08Z",
+                "open_issues": 12,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
                 "stars": 24254,
@@ -1382,7 +1382,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
-            "open_issues": 330,
+            "open_issues": 331,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
             "stars": 25163,
@@ -1839,7 +1839,7 @@
             "open_issues": 74,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18263,
+            "stars": 18262,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2960,
+            "stars": 2961,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:33:47.611Z",
+    "last_updated": "2026-10-24T07:18:20.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2041,7 +2041,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-06T14:19:39Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
       "stars": 1411,
