@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45876,
+            "stars": 45872,
             "topics": [
               "android",
               "android-architecture",
@@ -423,7 +423,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:29:29Z",
+                "last_commit": "2026-10-26T13:39:42Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -777,7 +777,7 @@
                 "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2299,
+                "stars": 2300,
                 "topics": [
                   "babel",
                   "best-practices",
@@ -1224,7 +1224,7 @@
                 "open_issues": 12,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24254,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1385,7 +1385,7 @@
             "open_issues": 332,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25168,
+            "stars": 25171,
             "topics": [
               "cookiecutter",
               "python"
@@ -1734,7 +1734,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-26T05:59:25Z",
-            "open_issues": 61,
+            "open_issues": 60,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
             "stars": 11998,
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2961,
+            "stars": 2963,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1973,7 +1973,7 @@
             "language": "Vim Script",
             "license": null,
             "last_commit": "2026-06-14T18:40:54Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "aperezdc",
             "repo": "vim-template",
             "stars": 379,
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:49:03.013Z",
+    "last_updated": "2026-10-27T07:53:35.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1411,
+      "stars": 1412,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
