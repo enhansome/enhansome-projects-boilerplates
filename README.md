@@ -23,8 +23,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,878 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-30 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
-* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,341 | 🐛 163 | 📅 2026-01-16 Android Guide.
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) ⭐ 45,882 | 🐛 228 | 🌐 Kotlin | 📅 2026-10-30 Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
+* [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) ⭐ 28,342 | 🐛 163 | 📅 2026-01-16 Android Guide.
 * [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) ⚠️ Archived Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
 * [Android Annotations](https://github.com/excilys/androidannotations) ⚠️ Archived Fast Android Development. Easy maintainance.
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) ⭐ 1,023 | 🐛 3 | 🌐 Java | 📅 2026-07-02 Collected code examples from the O'Reilly Android Cookbook.
@@ -54,7 +54,7 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 
 * [NodeJS](#node-js)
-  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,260 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-30 A boilerplate for Node.js web applications.
+  * [Hackathon Starter](https://github.com/sahat/hackathon-starter) ⭐ 35,259 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-30 A boilerplate for Node.js web applications.
   * [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) ⭐ 7,667 | 🐛 118 | 🌐 JavaScript | 📅 2024-07-08 - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
   * [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) ⚠️ Archived - Full stack JS web app boilerplate with Express, Mongo and VueJS)
   * [Express Boilerplate](https://github.com/expressjs/generator) ⭐ 1,850 | 🐛 79 | 🌐 JavaScript | 📅 2026-03-02 Boilerplate generator for Express.js Projects
@@ -121,7 +121,7 @@ Curated list of boilerplates and templates to enhance productivity.
 * [CookieCutter](https://github.com/audreyr/cookiecutter#python) ⭐ 25,175 | 🐛 333 | 🌐 Python | 📅 2026-04-01 List of various python templates by Audrey.
 * [Fbone](https://github.com/imwilsonxu/fbone) ⭐ 1,700 | 🐛 24 | 🌐 Python | 📅 2022-05-17 Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,611 | 🐛 20 | 🌐 Python | 📅 2020-03-05 A boilerplate for Django web applications, providing various social logins and several popular API examples.
-* [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) ⭐ 1,272 | 🐛 3 | 🌐 Python | 📅 2023-05-01 App built with best practices.
+* [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) ⭐ 1,271 | 🐛 3 | 🌐 Python | 📅 2023-05-01 App built with best practices.
 * [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) ⚠️ Archived Flask App engine Template
 * [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) ⭐ 681 | 🐛 43 | 🌐 Python | 📅 2024-10-20 A Complete boilerplate for Python Webapp2 on Google App Engine
 * [bootstrapy](https://github.com/kirang89/bootstrapy) ⭐ 284 | 🐛 1 | 🌐 Python | 📅 2013-09-16 A bootstrap Python application, so that you can focus on writing code.
@@ -152,7 +152,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 11,999 | 🐛 60 | 🌐 C# | 📅 2026-10-26 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 11,998 | 🐛 60 | 🌐 C# | 📅 2026-10-26 ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 ## Go
 
@@ -173,7 +173,7 @@ Curated list of boilerplates and templates to enhance productivity.
 * [Web Starter Kit](https://github.com/google/web-starter-kit) ⚠️ Archived Web starter kit by Google.
 * [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) ⭐ 868 | 🐛 25 | 🌐 Handlebars | 📅 2016-04-14 Boilerplate for meteor framework.
 * [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) ⭐ 145 | 🐛 5 | 🌐 JavaScript | 📅 2023-03-04 Jekyll Progressive Web App generator boilerplate.
-* [HTML Website Template](https://github.com/fulldecent/html-website-template) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-29 Starting point for collaboratively-edited HTML websites
+* [HTML Website Template](https://github.com/fulldecent/html-website-template) ⭐ 41 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-31 Starting point for collaboratively-edited HTML websites
 * [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
 * [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 * [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
@@ -208,4 +208,4 @@ To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
