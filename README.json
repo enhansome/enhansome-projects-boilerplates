@@ -15,7 +15,7 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T22:41:53Z",
+            "last_commit": "2026-11-06T16:51:12Z",
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
@@ -777,7 +777,7 @@
                 "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2300,
+                "stars": 2301,
                 "topics": [
                   "babel",
                   "best-practices",
@@ -1154,7 +1154,7 @@
                 "open_issues": 21,
                 "owner": "Polymer",
                 "repo": "polymer-starter-kit",
-                "stars": 2428,
+                "stars": 2427,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24253,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1409,7 +1409,7 @@
             "open_issues": 24,
             "owner": "imwilsonxu",
             "repo": "fbone",
-            "stars": 1700,
+            "stars": 1699,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1451,7 +1451,7 @@
             "open_issues": 3,
             "owner": "JackStouffer",
             "repo": "Flask-Foundation",
-            "stars": 1270,
+            "stars": 1269,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "kamalgill",
             "repo": "flask-appengine-template",
-            "stars": 1068,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1594,7 +1594,7 @@
             "id": 22037975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T15:37:10Z",
+            "last_commit": "2026-11-06T15:35:24Z",
             "open_issues": 5,
             "owner": "fasouto",
             "repo": "django-starter-template",
@@ -1839,7 +1839,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18256,
+            "stars": 18255,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:26:07.735Z",
+    "last_updated": "2026-11-07T08:48:37.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
