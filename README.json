@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28344,
             "topics": [
               "android",
               "codepath",
@@ -427,7 +427,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35262,
+                "stars": 35261,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7665,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -521,7 +521,7 @@
                 "open_issues": 79,
                 "owner": "expressjs",
                 "repo": "generator",
-                "stars": 1850,
+                "stars": 1851,
                 "topics": [
                   "express",
                   "generator",
@@ -735,7 +735,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12049,
+                "stars": 12048,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24250,
+                "stars": 24251,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1493,7 +1493,7 @@
             "open_issues": 43,
             "owner": "coto",
             "repo": "gae-boilerplate",
-            "stars": 681,
+            "stars": 682,
             "topics": [
               "datastore",
               "engine-boilerplate",
@@ -1683,7 +1683,7 @@
             "open_issues": 9,
             "owner": "pitr",
             "repo": "angular-rails-templates",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "angular",
               "angular-rails-templates",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:49:34.732Z",
+    "last_updated": "2026-11-10T09:51:55.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
