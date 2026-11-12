@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T22:32:12Z",
+            "last_commit": "2026-11-11T22:07:09Z",
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45898,
+            "stars": 45899,
             "topics": [
               "android",
               "android-architecture",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13161,
+            "stars": 13160,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10967,
+            "stars": 10966,
             "topics": [
               "android",
               "androidannotations",
@@ -423,11 +423,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T13:30:09Z",
+                "last_commit": "2026-11-11T13:27:50Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35261,
+                "stars": 35263,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -665,7 +665,7 @@
                 "open_issues": 158,
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3874,
+                "stars": 3873,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1594,8 +1594,8 @@
             "id": 22037975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T15:35:24Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-11T15:46:49Z",
+            "open_issues": 0,
             "owner": "fasouto",
             "repo": "django-starter-template",
             "stars": 157,
@@ -1734,7 +1734,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-26T05:59:25Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
             "stars": 11998,
@@ -1839,7 +1839,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18255,
+            "stars": 18256,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2963,
+            "stars": 2964,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:27:05.258Z",
+    "last_updated": "2026-11-12T09:51:31.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
