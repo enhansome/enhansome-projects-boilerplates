@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28345,
+            "stars": 28344,
             "topics": [
               "android",
               "codepath",
@@ -427,7 +427,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35263,
+                "stars": 35262,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7666,
+                "stars": 7667,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -665,7 +665,7 @@
                 "open_issues": 158,
                 "owner": "ngbp",
                 "repo": "ngbp",
-                "stars": 3873,
+                "stars": 3872,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24252,
+                "stars": 24251,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1385,7 +1385,7 @@
             "open_issues": 336,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25182,
+            "stars": 25178,
             "topics": [
               "cookiecutter",
               "python"
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1611,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:51:31.434Z",
+    "last_updated": "2026-11-13T09:32:52.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1412,
+      "stars": 1411,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
