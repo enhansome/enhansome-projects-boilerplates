@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T22:07:09Z",
+            "last_commit": "2026-11-14T00:27:54Z",
             "open_issues": 228,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45899,
+            "stars": 45900,
             "topics": [
               "android",
               "android-architecture",
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10966,
+            "stars": 10967,
             "topics": [
               "android",
               "androidannotations",
@@ -423,7 +423,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T13:27:50Z",
+                "last_commit": "2026-11-13T13:36:33Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -714,7 +714,7 @@
                 "open_issues": 463,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12149,
+                "stars": 12148,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1382,7 +1382,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
             "stars": 25178,
@@ -1594,8 +1594,8 @@
             "id": 22037975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T15:46:49Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-13T15:35:06Z",
+            "open_issues": 1,
             "owner": "fasouto",
             "repo": "django-starter-template",
             "stars": 157,
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:32:52.647Z",
+    "last_updated": "2026-11-14T08:58:50.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
