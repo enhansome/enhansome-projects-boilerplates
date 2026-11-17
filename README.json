@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45899,
+            "stars": 45900,
             "topics": [
               "android",
               "android-architecture",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13160,
+            "stars": 13159,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -192,7 +192,7 @@
             "open_issues": 41,
             "owner": "takimafr",
             "repo": "androidkickstartr",
-            "stars": 597,
+            "stars": 598,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -423,7 +423,7 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T13:36:33Z",
+                "last_commit": "2026-11-16T13:36:07Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7667,
+                "stars": 7666,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -489,7 +489,7 @@
                 "open_issues": 83,
                 "owner": "icebob",
                 "repo": "vue-express-mongo-boilerplate",
-                "stars": 2822,
+                "stars": 2821,
                 "topics": [
                   "boilerplate",
                   "express",
@@ -1224,7 +1224,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24250,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1382,10 +1382,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25180,
+            "stars": 25183,
             "topics": [
               "cookiecutter",
               "python"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "kamalgill",
             "repo": "flask-appengine-template",
-            "stars": 1067,
+            "stars": 1068,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1737,7 +1737,7 @@
             "open_issues": 62,
             "owner": "aspnetboilerplate",
             "repo": "aspnetboilerplate",
-            "stars": 12000,
+            "stars": 12001,
             "topics": [
               "abp",
               "architecture",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:45:54.205Z",
+    "last_updated": "2026-11-17T10:44:35.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1411,
+      "stars": 1412,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
