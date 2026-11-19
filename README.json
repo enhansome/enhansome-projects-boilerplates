@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45902,
+            "stars": 45905,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28342,
+            "stars": 28343,
             "topics": [
               "android",
               "codepath",
@@ -93,7 +93,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10968,
+            "stars": 10967,
             "topics": [
               "android",
               "androidannotations",
@@ -427,7 +427,7 @@
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35259,
+                "stars": 35260,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -714,7 +714,7 @@
                 "open_issues": 463,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12149,
+                "stars": 12150,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -777,7 +777,7 @@
                 "open_issues": 19,
                 "owner": "RickWong",
                 "repo": "react-isomorphic-starterkit",
-                "stars": 2301,
+                "stars": 2302,
                 "topics": [
                   "babel",
                   "best-practices",
@@ -1224,7 +1224,7 @@
                 "open_issues": 15,
                 "owner": "electron-react-boilerplate",
                 "repo": "electron-react-boilerplate",
-                "stars": 24251,
+                "stars": 24252,
                 "topics": [
                   "babel",
                   "boilerplate",
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "DrkSephy",
             "repo": "django-hackathon-starter",
-            "stars": 1610,
+            "stars": 1611,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1839,7 +1839,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18257,
+            "stars": 18258,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2965,
+            "stars": 2966,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:11:40.613Z",
+    "last_updated": "2026-11-19T10:22:13.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1412,
+      "stars": 1413,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
