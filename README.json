@@ -15,11 +15,11 @@
             "id": 51148780,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T05:45:11Z",
+            "last_commit": "2026-11-21T06:02:13Z",
             "open_issues": 230,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45902,
+            "stars": 45903,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28341,
+            "stars": 28343,
             "topics": [
               "android",
               "codepath",
@@ -72,7 +72,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13157,
+            "stars": 13156,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -423,11 +423,11 @@
                 "id": 14370955,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:28:21Z",
+                "last_commit": "2026-11-20T13:29:25Z",
                 "open_issues": 3,
                 "owner": "sahat",
                 "repo": "hackathon-starter",
-                "stars": 35260,
+                "stars": 35259,
                 "topics": [
                   "boilerplate",
                   "hackathon",
@@ -1382,7 +1382,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-01T17:46:44Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
             "stars": 25184,
@@ -1594,7 +1594,7 @@
             "id": 22037975,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:35:06Z",
+            "last_commit": "2026-11-20T15:35:31Z",
             "open_issues": 1,
             "owner": "fasouto",
             "repo": "django-starter-template",
@@ -1955,7 +1955,7 @@
             "open_issues": 161,
             "owner": "joaotavora",
             "repo": "yasnippet",
-            "stars": 2966,
+            "stars": 2967,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:01:52.900Z",
+    "last_updated": "2026-11-21T09:51:03.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
@@ -2044,7 +2044,7 @@
       "open_issues": 21,
       "owner": "melvin0008",
       "repo": "awesome-projects-boilerplates",
-      "stars": 1411,
+      "stars": 1410,
       "topics": []
     },
     "original_repository_sha": "d390d369a00584b237431c00eae1d649cd6aace4",
