@@ -19,7 +19,7 @@
             "open_issues": 230,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45903,
+            "stars": 45905,
             "topics": [
               "android",
               "android-architecture",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7666,
+                "stars": 7665,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -714,7 +714,7 @@
                 "open_issues": 463,
                 "owner": "gaearon",
                 "repo": "react-hot-loader",
-                "stars": 12149,
+                "stars": 12148,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1839,7 +1839,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18255,
+            "stars": 18254,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:51:03.387Z",
+    "last_updated": "2026-11-22T09:47:32.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
