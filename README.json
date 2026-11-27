@@ -19,7 +19,7 @@
             "open_issues": 231,
             "owner": "android",
             "repo": "architecture-samples",
-            "stars": 45915,
+            "stars": 45916,
             "topics": [
               "android",
               "android-architecture",
@@ -45,7 +45,7 @@
             "open_issues": 163,
             "owner": "codepath",
             "repo": "android_guides",
-            "stars": 28341,
+            "stars": 28342,
             "topics": [
               "android",
               "codepath",
@@ -455,7 +455,7 @@
                 "open_issues": 118,
                 "owner": "hagopj13",
                 "repo": "node-express-boilerplate",
-                "stars": 7665,
+                "stars": 7664,
                 "topics": [
                   "boilerplate",
                   "es2018",
@@ -735,7 +735,7 @@
                 "open_issues": 419,
                 "owner": "erikras",
                 "repo": "react-redux-universal-hot-example",
-                "stars": 12049,
+                "stars": 12048,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:21:55.906Z"
@@ -1385,7 +1385,7 @@
             "open_issues": 342,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25184,
+            "stars": 25186,
             "topics": [
               "cookiecutter",
               "python"
@@ -1493,7 +1493,7 @@
             "open_issues": 43,
             "owner": "coto",
             "repo": "gae-boilerplate",
-            "stars": 680,
+            "stars": 681,
             "topics": [
               "datastore",
               "engine-boilerplate",
@@ -1839,7 +1839,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "web-starter-kit",
-            "stars": 18250,
+            "stars": 18249,
             "topics": []
           },
           "first_seen": "2026-08-28T14:21:55.906Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:55:28.858Z",
+    "last_updated": "2026-11-27T10:53:01.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "Boilerplates for mobile and web apps",
